@@ -1,0 +1,778 @@
+occ_code,employment_2019,employment_2029,job_openings_annual_average,median_wage,percent_self_employed_2019,typical_educational_background_for_entry,experience_required_in_a_related_occupation,link_to_oes_summary,link_to_bls_page
+11-1011,287900,259100,13900,184460,24.2,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-1011.00,https://www.bls.gov/oes/2019/may/oes111011.htm
+11-1021,2486400,2630200,204400,100780,0.6,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-1021.00,https://www.bls.gov/oes/2019/may/oes111021.htm
+11-1031,53700,57000,3900,29270,,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-1031.00,https://www.bls.gov/oes/2019/may/oes111031.htm
+11-2011,28600,28300,2500,125510,11,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-2011.00,https://www.bls.gov/oes/2019/may/oes112011.htm
+11-2021,286300,305400,24600,136850,5,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-2021.00,https://www.bls.gov/oes/2019/may/oes112021.htm
+11-2022,433800,449200,35300,126640,5.1,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-2022.00,https://www.bls.gov/oes/2019/may/oes112022.htm
+11-3021,461000,509200,36800,146360,1.8,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3021.00,https://www.bls.gov/oes/2019/may/oes113021.htm
+11-3031,697900,806000,59600,129890,2,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3031.00,https://www.bls.gov/oes/2019/may/oes113031.htm
+11-3051,190100,191900,11700,105480,1,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3051.00,https://www.bls.gov/oes/2019/may/oes113051.htm
+11-3061,76900,78900,5600,121110,3.5,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3061.00,https://www.bls.gov/oes/2019/may/oes113061.htm
+11-3071,139400,144300,10000,94560,3.1,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/11-3071.00,https://www.bls.gov/oes/2019/may/oes113071.htm
+11-3111,18000,18400,1300,122270,1.9,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3111.00,https://www.bls.gov/oes/2019/may/oes113111.htm
+11-3121,165200,175600,13300,116720,2.1,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3121.00,https://www.bls.gov/oes/2019/may/oes113121.htm
+11-3131,42300,45400,3700,113350,3.6,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-3131.00,https://www.bls.gov/oes/2019/may/oes113131.htm
+11-9013,952300,890600,80900,71160,66.7,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/11-9013.00,https://www.bls.gov/oes/2019/may/oes119013.htm
+11-9021,476700,517100,34700,95260,37.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/11-9021.00,https://www.bls.gov/oes/2019/may/oes119021.htm
+11-9031,69200,69900,4600,48210,8.6,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9031.00,https://www.bls.gov/oes/2019/may/oes119031.htm
+11-9032,283200,294400,20000,96400,1.9,Master's degree,5 years or more,https://www.onetonline.org/link/summary/11-9032.00,https://www.bls.gov/oes/2019/may/oes119032.htm
+11-9033,190500,197600,13400,95410,4.1,Master's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9033.00,https://www.bls.gov/oes/2019/may/oes119033.htm
+11-9039,52100,56400,4000,85450,6,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9039.00,https://www.bls.gov/oes/2019/may/oes119039.htm
+11-9041,198100,203200,12500,144830,,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-9041.00,https://www.bls.gov/oes/2019/may/oes119041.htm
+11-9051,352600,354800,34800,55320,32.1,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/11-9051.00,https://www.bls.gov/oes/2019/may/oes119051.htm
+11-9071,5100,5600,600,74970,11.4,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/11-9071.00,https://www.bls.gov/oes/2019/may/oes119071.htm
+11-9081,57200,50600,4500,54430,31.1,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/11-9081.00,https://www.bls.gov/oes/2019/may/oes119081.htm
+11-9111,422300,555500,47000,100980,2.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9111.00,https://www.bls.gov/oes/2019/may/oes119111.htm
+11-9121,71400,74800,4900,129100,,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-9121.00,https://www.bls.gov/oes/2019/may/oes119121.htm
+11-9131,13400,10500,500,76900,0.7,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/11-9131.00,https://www.bls.gov/oes/2019/may/oes119131.htm
+11-9141,367900,368700,26000,58760,37.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/11-9141.00,https://www.bls.gov/oes/2019/may/oes119141.htm
+11-9151,175500,205400,17100,67150,4.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9151.00,https://www.bls.gov/oes/2019/may/oes119151.htm
+11-9161,10400,10900,700,74590,,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/11-9161.00,https://www.bls.gov/oes/2019/may/oes119161.htm
+11-9171,28600,26900,1600,76350,66.5,Associate's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9171.00,https://www.bls.gov/oes/2019/may/oes119171.htm
+11-9198,1189200,1167500,74500,110630,57.6,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/11-9198.00,https://www.bls.gov/oes/2019/may/oes119198.htm
+13-1011,21900,24400,2700,73740,22.5,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/13-1011.00,https://www.bls.gov/oes/2019/may/oes131011.htm
+13-1031,332900,311500,21000,66790,2.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/13-1031.00,https://www.bls.gov/oes/2019/may/oes131031.htm
+13-1032,15900,15300,1100,63270,2.8,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/13-1032.00,https://www.bls.gov/oes/2019/may/oes131032.htm
+13-1041,337600,353200,27700,69050,0.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1041.00,https://www.bls.gov/oes/2019/may/oes131041.htm
+13-1051,214200,211000,17500,65250,1.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1051.00,https://www.bls.gov/oes/2019/may/oes131051.htm
+13-1071,666500,713500,64500,61920,1.5,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1071.00,https://www.bls.gov/oes/2019/may/oes131071.htm
+13-1074,800,900,100,61910,,No formal educational credential,Less than 5 years,https://www.onetonline.org/link/summary/13-1074.00,https://www.bls.gov/oes/2019/may/oes131074.htm
+13-1075,78900,73500,6100,69020,1.7,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/13-1075.00,https://www.bls.gov/oes/2019/may/oes131075.htm
+13-1081,188200,196400,16800,74750,0.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1081.00,https://www.bls.gov/oes/2019/may/oes131081.htm
+13-1111,876300,970200,87100,85260,14.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/13-1111.00,https://www.bls.gov/oes/2019/may/oes131111.htm
+13-1121,138600,149500,15200,50600,5.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1121.00,https://www.bls.gov/oes/2019/may/oes131121.htm
+13-1131,100600,115000,11100,57970,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1131.00,https://www.bls.gov/oes/2019/may/oes131131.htm
+13-1141,94400,101800,9000,64560,,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/13-1141.00,https://www.bls.gov/oes/2019/may/oes131141.htm
+13-1151,327900,356100,33700,61210,0.7,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/13-1151.00,https://www.bls.gov/oes/2019/may/oes131151.htm
+13-1161,738100,868400,84200,63790,4.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1161.00,https://www.bls.gov/oes/2019/may/oes131161.htm
+13-1198,1361800,1441600,128000,73570,0.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-1198.00,https://www.bls.gov/oes/2019/may/oes131198.htm
+13-2011,1436100,1497900,125700,71550,6,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2011.00,https://www.bls.gov/oes/2019/may/oes132011.htm
+13-2031,55400,57300,4300,76540,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2031.00,https://www.bls.gov/oes/2019/may/oes132031.htm
+13-2041,74900,71200,5300,73650,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2041.00,https://www.bls.gov/oes/2019/may/oes132041.htm
+13-2052,263000,274600,19200,87850,18.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2052.00,https://www.bls.gov/oes/2019/may/oes132052.htm
+13-2053,114700,107600,7300,70020,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2053.00,https://www.bls.gov/oes/2019/may/oes132053.htm
+13-2061,66900,71800,4900,81090,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2061.00,https://www.bls.gov/oes/2019/may/oes132061.htm
+13-2071,35600,38300,2900,45950,0.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2071.00,https://www.bls.gov/oes/2019/may/oes132071.htm
+13-2072,316900,327000,24200,63270,0.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2072.00,https://www.bls.gov/oes/2019/may/oes132072.htm
+13-2081,57600,55300,4200,54890,,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2081.00,https://www.bls.gov/oes/2019/may/oes132081.htm
+13-2082,88400,87900,9100,43080,21,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/13-2082.00,https://www.bls.gov/oes/2019/may/oes132082.htm
+13-2098,487800,514600,38600,81590,1.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/13-2098.00,https://www.bls.gov/oes/2019/may/oes132098.htm
+15-1211,632400,679000,46200,90920,3,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1211.00,https://www.bls.gov/oes/2019/may/oes151211.htm
+15-1212,131000,171900,13900,99730,0.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/15-1212.00,https://www.bls.gov/oes/2019/may/oes151212.htm
+15-1221,32700,37700,3000,122840,,Master's degree,None,https://www.onetonline.org/link/summary/15-1221.00,https://www.bls.gov/oes/2019/may/oes151221.htm
+15-1231,195100,207700,14800,63460,2,Associate's degree,None,https://www.onetonline.org/link/summary/15-1231.00,https://www.bls.gov/oes/2019/may/oes151231.htm
+15-1232,687200,741900,53600,52270,1.9,"Some college, no degree",None,https://www.onetonline.org/link/summary/15-1232.00,https://www.bls.gov/oes/2019/may/oes151232.htm
+15-1241,160100,168100,10000,112690,2,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/15-1241.00,https://www.bls.gov/oes/2019/may/oes151241.htm
+15-1244,373900,389900,23800,83510,1,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1244.00,https://www.bls.gov/oes/2019/may/oes151244.htm
+15-1245,132500,145300,9900,93750,0.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1245.00,https://www.bls.gov/oes/2019/may/oes151245.htm
+15-1251,213900,193800,10400,86550,2.8,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1251.00,https://www.bls.gov/oes/2019/may/oes151251.htm
+15-1256,1469200,1785200,131400,107510,1.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1256.00,https://www.bls.gov/oes/2019/may/oes151256.htm
+15-1257,174300,188300,13400,73760,9.8,Associate's degree,None,https://www.onetonline.org/link/summary/15-1257.00,https://www.bls.gov/oes/2019/may/oes151257.htm
+15-1299,431100,455800,32300,88550,3.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-1299.00,https://www.bls.gov/oes/2019/may/oes151299.htm
+15-2011,27700,32600,2000,108350,4.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-2011.00,https://www.bls.gov/oes/2019/may/oes152011.htm
+15-2021,2900,3000,200,105030,,Master's degree,None,https://www.onetonline.org/link/summary/15-2021.00,https://www.bls.gov/oes/2019/may/oes152021.htm
+15-2031,105100,131300,9600,84810,0.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-2031.00,https://www.bls.gov/oes/2019/may/oes152031.htm
+15-2041,42700,57500,4900,91160,2.5,Master's degree,None,https://www.onetonline.org/link/summary/15-2041.00,https://www.bls.gov/oes/2019/may/oes152041.htm
+15-2098,33200,43400,3600,94280,3,Bachelor's degree,None,https://www.onetonline.org/link/summary/15-2098.00,https://www.bls.gov/oes/2019/may/oes152098.htm
+17-1011,129900,130900,8700,80750,17.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-1011.00,https://www.bls.gov/oes/2019/may/oes171011.htm
+17-1012,24500,23900,1500,69360,16.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-1012.00,https://www.bls.gov/oes/2019/may/oes171012.htm
+17-1021,12000,12500,900,65470,3,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-1021.00,https://www.bls.gov/oes/2019/may/oes171021.htm
+17-1022,48000,48700,3600,63420,5.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-1022.00,https://www.bls.gov/oes/2019/may/oes171022.htm
+17-2011,66400,68200,3900,116500,1.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2011.00,https://www.bls.gov/oes/2019/may/oes172011.htm
+17-2021,1700,1700,100,80720,5,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2021.00,https://www.bls.gov/oes/2019/may/oes172021.htm
+17-2031,21200,22200,1400,91410,2.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2031.00,https://www.bls.gov/oes/2019/may/oes172031.htm
+17-2041,32600,34000,2000,108770,5.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2041.00,https://www.bls.gov/oes/2019/may/oes172041.htm
+17-2051,329200,334700,22900,87060,3.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2051.00,https://www.bls.gov/oes/2019/may/oes172051.htm
+17-2061,71100,72200,4900,117220,1.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2061.00,https://www.bls.gov/oes/2019/may/oes172061.htm
+17-2071,193100,202100,12500,98530,1.8,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2071.00,https://www.bls.gov/oes/2019/may/oes172071.htm
+17-2072,134900,136800,8200,105570,1.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2072.00,https://www.bls.gov/oes/2019/may/oes172072.htm
+17-2081,55800,57600,3700,88860,2,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2081.00,https://www.bls.gov/oes/2019/may/oes172081.htm
+17-2111,26400,27500,1700,91410,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2111.00,https://www.bls.gov/oes/2019/may/oes172111.htm
+17-2112,295800,325800,21300,88020,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2112.00,https://www.bls.gov/oes/2019/may/oes172112.htm
+17-2121,11800,12000,600,92400,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2121.00,https://www.bls.gov/oes/2019/may/oes172121.htm
+17-2131,27500,27900,1500,93360,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2131.00,https://www.bls.gov/oes/2019/may/oes172131.htm
+17-2141,316300,328700,19200,88430,1,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2141.00,https://www.bls.gov/oes/2019/may/oes172141.htm
+17-2151,6300,6600,400,91160,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2151.00,https://www.bls.gov/oes/2019/may/oes172151.htm
+17-2161,16400,14300,700,113460,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2161.00,https://www.bls.gov/oes/2019/may/oes172161.htm
+17-2171,33400,34400,2100,137720,,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2171.00,https://www.bls.gov/oes/2019/may/oes172171.htm
+17-2199,170100,172300,10300,99040,6.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/17-2199.00,https://www.bls.gov/oes/2019/may/oes172199.htm
+17-3011,102900,100300,8500,56340,2.9,Associate's degree,None,https://www.onetonline.org/link/summary/17-3011.00,https://www.bls.gov/oes/2019/may/oes173011.htm
+17-3012,25300,25400,2200,61530,2.9,Associate's degree,None,https://www.onetonline.org/link/summary/17-3012.00,https://www.bls.gov/oes/2019/may/oes173012.htm
+17-3013,57500,52700,4300,57060,3,Associate's degree,None,https://www.onetonline.org/link/summary/17-3013.00,https://www.bls.gov/oes/2019/may/oes173013.htm
+17-3019,15200,15300,1300,52830,2.9,Associate's degree,None,https://www.onetonline.org/link/summary/17-3019.00,https://www.bls.gov/oes/2019/may/oes173019.htm
+17-3021,11900,12700,1100,66020,,Associate's degree,None,https://www.onetonline.org/link/summary/17-3021.00,https://www.bls.gov/oes/2019/may/oes173021.htm
+17-3022,70900,72700,6100,53410,0.2,Associate's degree,None,https://www.onetonline.org/link/summary/17-3022.00,https://www.bls.gov/oes/2019/may/oes173022.htm
+17-3023,125800,127800,10700,65260,0.3,Associate's degree,None,https://www.onetonline.org/link/summary/17-3023.00,https://www.bls.gov/oes/2019/may/oes173023.htm
+17-3024,14600,15100,1300,58350,0.4,Associate's degree,None,https://www.onetonline.org/link/summary/17-3024.00,https://www.bls.gov/oes/2019/may/oes173024.htm
+17-3025,18500,19900,1700,50620,0.3,Associate's degree,None,https://www.onetonline.org/link/summary/17-3025.00,https://www.bls.gov/oes/2019/may/oes173025.htm
+17-3026,68500,69500,5800,56550,0.4,Associate's degree,None,https://www.onetonline.org/link/summary/17-3026.00,https://www.bls.gov/oes/2019/may/oes173026.htm
+17-3027,43500,44900,3800,56980,0.4,Associate's degree,None,https://www.onetonline.org/link/summary/17-3027.00,https://www.bls.gov/oes/2019/may/oes173027.htm
+17-3031,58400,58800,6400,45010,8.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/17-3031.00,https://www.bls.gov/oes/2019/may/oes173031.htm
+17-3098,91600,93600,7900,62990,0.3,Associate's degree,None,https://www.onetonline.org/link/summary/17-3098.00,https://www.bls.gov/oes/2019/may/oes173098.htm
+19-1011,2800,3000,300,60300,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1011.00,https://www.bls.gov/oes/2019/may/oes191011.htm
+19-1012,14200,14900,1400,68970,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1012.00,https://www.bls.gov/oes/2019/may/oes191012.htm
+19-1013,17800,19000,1900,63200,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1013.00,https://www.bls.gov/oes/2019/may/oes191013.htm
+19-1021,34600,36000,2900,94490,3.7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/19-1021.00,https://www.bls.gov/oes/2019/may/oes191021.htm
+19-1022,20200,20900,1700,75650,2.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1022.00,https://www.bls.gov/oes/2019/may/oes191022.htm
+19-1023,21000,21800,1800,63270,1,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1023.00,https://www.bls.gov/oes/2019/may/oes191023.htm
+19-1029,44700,45700,3600,82220,1.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1029.00,https://www.bls.gov/oes/2019/may/oes191029.htm
+19-1031,24500,25800,2300,62660,3.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1031.00,https://www.bls.gov/oes/2019/may/oes191031.htm
+19-1032,11600,12000,1100,61790,5.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1032.00,https://www.bls.gov/oes/2019/may/oes191032.htm
+19-1041,8000,8300,600,70990,,Master's degree,None,https://www.onetonline.org/link/summary/19-1041.00,https://www.bls.gov/oes/2019/may/oes191041.htm
+19-1042,138300,146700,11200,88790,0.7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/19-1042.00,https://www.bls.gov/oes/2019/may/oes191042.htm
+19-1099,7000,7400,600,75910,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-1099.00,https://www.bls.gov/oes/2019/may/oes191099.htm
+19-2011,2300,2400,100,114590,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/19-2011.00,https://www.bls.gov/oes/2019/may/oes192011.htm
+19-2012,18200,19500,1300,122850,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/19-2012.00,https://www.bls.gov/oes/2019/may/oes192012.htm
+19-2021,9900,10600,900,95380,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2021.00,https://www.bls.gov/oes/2019/may/oes192021.htm
+19-2031,86700,90800,7300,77630,0.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2031.00,https://www.bls.gov/oes/2019/may/oes192031.htm
+19-2032,7000,7200,600,96810,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2032.00,https://www.bls.gov/oes/2019/may/oes192032.htm
+19-2041,90900,98000,8900,71360,3.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2041.00,https://www.bls.gov/oes/2019/may/oes192041.htm
+19-2042,31800,33400,3000,92040,4.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2042.00,https://www.bls.gov/oes/2019/may/oes192042.htm
+19-2043,7000,7300,700,81270,2.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2043.00,https://www.bls.gov/oes/2019/may/oes192043.htm
+19-2099,22800,22100,1500,109910,9.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-2099.00,https://www.bls.gov/oes/2019/may/oes192099.htm
+19-3011,20500,23500,1600,105020,1.4,Master's degree,None,https://www.onetonline.org/link/summary/19-3011.00,https://www.bls.gov/oes/2019/may/oes193011.htm
+19-3022,12200,11700,1100,59170,14.8,Master's degree,None,https://www.onetonline.org/link/summary/19-3022.00,https://www.bls.gov/oes/2019/may/oes193022.htm
+19-3031,171500,176700,10500,78200,32.5,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/19-3031.00,https://www.bls.gov/oes/2019/may/oes193031.htm
+19-3032,1100,1100,100,92880,40.9,Master's degree,None,https://www.onetonline.org/link/summary/19-3032.00,https://www.bls.gov/oes/2019/may/oes193032.htm
+19-3039,19800,20200,1200,101790,22.1,Master's degree,None,https://www.onetonline.org/link/summary/19-3039.00,https://www.bls.gov/oes/2019/may/oes193039.htm
+19-3041,3200,3300,300,83420,11,Master's degree,None,https://www.onetonline.org/link/summary/19-3041.00,https://www.bls.gov/oes/2019/may/oes193041.htm
+19-3051,39700,44100,3700,74350,,Master's degree,None,https://www.onetonline.org/link/summary/19-3051.00,https://www.bls.gov/oes/2019/may/oes193051.htm
+19-3091,8000,8400,800,63670,11.4,Master's degree,None,https://www.onetonline.org/link/summary/19-3091.00,https://www.bls.gov/oes/2019/may/oes193091.htm
+19-3092,1600,1600,100,81540,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-3092.00,https://www.bls.gov/oes/2019/may/oes193092.htm
+19-3093,3500,3600,300,63680,6.8,Master's degree,None,https://www.onetonline.org/link/summary/19-3093.00,https://www.bls.gov/oes/2019/may/oes193093.htm
+19-3094,7000,7400,700,122220,6.8,Master's degree,None,https://www.onetonline.org/link/summary/19-3094.00,https://www.bls.gov/oes/2019/may/oes193094.htm
+19-3099,38800,39100,3600,83330,4.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-3099.00,https://www.bls.gov/oes/2019/may/oes193099.htm
+19-4021,87500,91800,9400,45860,0.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-4021.00,https://www.bls.gov/oes/2019/may/oes194021.htm
+19-4031,68100,70000,6300,49260,1.2,Associate's degree,None,https://www.onetonline.org/link/summary/19-4031.00,https://www.bls.gov/oes/2019/may/oes194031.htm
+19-4042,34700,37600,4300,46540,1.4,Associate's degree,None,https://www.onetonline.org/link/summary/19-4042.00,https://www.bls.gov/oes/2019/may/oes194042.htm
+19-4045,19000,20100,1600,51130,7.5,Associate's degree,None,https://www.onetonline.org/link/summary/19-4045.00,https://www.bls.gov/oes/2019/may/oes194045.htm
+19-4051,6700,5400,500,82080,2.1,Associate's degree,None,https://www.onetonline.org/link/summary/19-4051.00,https://www.bls.gov/oes/2019/may/oes194051.htm
+19-4061,40100,42400,4800,47510,1.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-4061.00,https://www.bls.gov/oes/2019/may/oes194061.htm
+19-4071,21200,21300,2300,45500,,Associate's degree,None,https://www.onetonline.org/link/summary/19-4071.00,https://www.bls.gov/oes/2019/may/oes194071.htm
+19-4092,17200,19600,2300,59150,,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-4092.00,https://www.bls.gov/oes/2019/may/oes194092.htm
+19-4099,71000,74300,8300,50550,1.4,Associate's degree,None,https://www.onetonline.org/link/summary/19-4099.00,https://www.bls.gov/oes/2019/may/oes194099.htm
+19-5011,100500,104300,5500,74100,4,Bachelor's degree,None,https://www.onetonline.org/link/summary/19-5011.00,https://www.bls.gov/oes/2019/may/oes195011.htm
+19-5012,22100,23100,1200,51550,4.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/19-5012.00,https://www.bls.gov/oes/2019/may/oes195012.htm
+21-1012,333500,360400,33100,57040,2.9,Master's degree,None,https://www.onetonline.org/link/summary/21-1012.00,https://www.bls.gov/oes/2019/may/oes211012.htm
+21-1013,66200,80900,7900,49610,8,Master's degree,None,https://www.onetonline.org/link/summary/21-1013.00,https://www.bls.gov/oes/2019/may/oes211013.htm
+21-1015,120200,132500,12300,35950,7.2,Master's degree,None,https://www.onetonline.org/link/summary/21-1015.00,https://www.bls.gov/oes/2019/may/oes211015.htm
+21-1018,319400,398400,39400,46240,7.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1018.00,https://www.bls.gov/oes/2019/may/oes211018.htm
+21-1019,29100,32900,3100,42930,5.6,Master's degree,None,https://www.onetonline.org/link/summary/21-1019.00,https://www.bls.gov/oes/2019/may/oes211019.htm
+21-1021,342500,382600,34900,47390,0.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1021.00,https://www.bls.gov/oes/2019/may/oes211021.htm
+21-1022,185000,211700,19600,56750,1.5,Master's degree,None,https://www.onetonline.org/link/summary/21-1022.00,https://www.bls.gov/oes/2019/may/oes211022.htm
+21-1023,123200,143800,13400,46650,1.4,Master's degree,None,https://www.onetonline.org/link/summary/21-1023.00,https://www.bls.gov/oes/2019/may/oes211023.htm
+21-1029,62500,65600,5800,61230,0.5,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1029.00,https://www.bls.gov/oes/2019/may/oes211029.htm
+21-1091,62200,69300,6900,55220,0.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1091.00,https://www.bls.gov/oes/2019/may/oes211091.htm
+21-1092,91800,95300,7300,54290,,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1092.00,https://www.bls.gov/oes/2019/may/oes211092.htm
+21-1093,425600,497100,56500,35060,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/21-1093.00,https://www.bls.gov/oes/2019/may/oes211093.htm
+21-1094,64900,74800,7600,40360,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/21-1094.00,https://www.bls.gov/oes/2019/may/oes211094.htm
+21-1099,105200,117600,11800,43790,0.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-1099.00,https://www.bls.gov/oes/2019/may/oes211099.htm
+21-2011,243900,253600,24400,50400,0.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-2011.00,https://www.bls.gov/oes/2019/may/oes212011.htm
+21-2021,157500,162700,17700,43860,0.4,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/21-2021.00,https://www.bls.gov/oes/2019/may/oes212021.htm
+21-2099,65000,67100,8300,31630,,Bachelor's degree,None,https://www.onetonline.org/link/summary/21-2099.00,https://www.bls.gov/oes/2019/may/oes212099.htm
+23-1011,813900,846300,39900,122960,17.3,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/23-1011.00,https://www.bls.gov/oes/2019/may/oes231011.htm
+23-1012,17300,17900,800,54010,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/23-1012.00,https://www.bls.gov/oes/2019/may/oes231012.htm
+23-1021,15400,15400,700,97870,,Doctoral or professional degree,5 years or more,https://www.onetonline.org/link/summary/23-1021.00,https://www.bls.gov/oes/2019/may/oes231021.htm
+23-1022,7300,7900,400,63930,11.9,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/23-1022.00,https://www.bls.gov/oes/2019/may/oes231022.htm
+23-1023,29900,30900,1400,136910,,Doctoral or professional degree,5 years or more,https://www.onetonline.org/link/summary/23-1023.00,https://www.bls.gov/oes/2019/may/oes231023.htm
+23-2011,337800,373100,37600,51740,0.8,Associate's degree,None,https://www.onetonline.org/link/summary/23-2011.00,https://www.bls.gov/oes/2019/may/oes232011.htm
+23-2093,63600,61900,4800,48180,11.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/23-2093.00,https://www.bls.gov/oes/2019/may/oes232093.htm
+23-2099,50400,49800,3900,58400,5.3,Associate's degree,None,https://www.onetonline.org/link/summary/23-2099.00,https://www.bls.gov/oes/2019/may/oes232099.htm
+25-1011,105100,117700,9500,87200,0.2,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1011.00,https://www.bls.gov/oes/2019/may/oes251011.htm
+25-1021,38500,39500,3000,85180,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1021.00,https://www.bls.gov/oes/2019/may/oes251021.htm
+25-1022,60100,60800,4600,73690,0.1,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1022.00,https://www.bls.gov/oes/2019/may/oes251022.htm
+25-1031,8500,9000,700,87900,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1031.00,https://www.bls.gov/oes/2019/may/oes251031.htm
+25-1032,44600,48400,3800,101010,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1032.00,https://www.bls.gov/oes/2019/may/oes251032.htm
+25-1041,11400,11700,900,83260,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1041.00,https://www.bls.gov/oes/2019/may/oes251041.htm
+25-1042,64700,70700,5600,83300,0.2,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1042.00,https://www.bls.gov/oes/2019/may/oes251042.htm
+25-1043,2100,2200,200,85450,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1043.00,https://www.bls.gov/oes/2019/may/oes251043.htm
+25-1051,13100,13400,1000,92040,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1051.00,https://www.bls.gov/oes/2019/may/oes251051.htm
+25-1052,26400,27500,2100,79550,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1052.00,https://www.bls.gov/oes/2019/may/oes251052.htm
+25-1053,7600,7800,600,82430,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1053.00,https://www.bls.gov/oes/2019/may/oes251053.htm
+25-1054,17100,17800,1400,89590,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1054.00,https://www.bls.gov/oes/2019/may/oes251054.htm
+25-1061,7200,7500,600,86220,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1061.00,https://www.bls.gov/oes/2019/may/oes251061.htm
+25-1062,13400,14000,1100,77070,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1062.00,https://www.bls.gov/oes/2019/may/oes251062.htm
+25-1063,16800,17600,1400,104370,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1063.00,https://www.bls.gov/oes/2019/may/oes251063.htm
+25-1064,4800,5000,400,80520,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1064.00,https://www.bls.gov/oes/2019/may/oes251064.htm
+25-1065,19800,20800,1600,85930,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1065.00,https://www.bls.gov/oes/2019/may/oes251065.htm
+25-1066,46800,51000,4000,76620,0.2,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1066.00,https://www.bls.gov/oes/2019/may/oes251066.htm
+25-1067,17000,17600,1300,75290,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1067.00,https://www.bls.gov/oes/2019/may/oes251067.htm
+25-1069,19300,19200,1400,71530,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1069.00,https://www.bls.gov/oes/2019/may/oes251069.htm
+25-1071,254000,306100,26000,97320,0.2,Doctoral or professional degree,Less than 5 years,https://www.onetonline.org/link/summary/25-1071.00,https://www.bls.gov/oes/2019/may/oes251071.htm
+25-1072,72900,85700,7200,74600,0.2,Doctoral or professional degree,Less than 5 years,https://www.onetonline.org/link/summary/25-1072.00,https://www.bls.gov/oes/2019/may/oes251072.htm
+25-1081,77300,81000,6200,65510,0.2,Doctoral or professional degree,Less than 5 years,https://www.onetonline.org/link/summary/25-1081.00,https://www.bls.gov/oes/2019/may/oes251081.htm
+25-1082,5400,5500,400,71410,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1082.00,https://www.bls.gov/oes/2019/may/oes251082.htm
+25-1111,16800,17900,1400,62860,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1111.00,https://www.bls.gov/oes/2019/may/oes251111.htm
+25-1112,21300,22800,1800,113530,0.3,Doctoral or professional degree,Less than 5 years,https://www.onetonline.org/link/summary/25-1112.00,https://www.bls.gov/oes/2019/may/oes251112.htm
+25-1113,17300,18300,1400,72070,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1113.00,https://www.bls.gov/oes/2019/may/oes251113.htm
+25-1121,116300,122800,9500,69530,0.2,Master's degree,None,https://www.onetonline.org/link/summary/25-1121.00,https://www.bls.gov/oes/2019/may/oes251121.htm
+25-1122,35600,36700,2800,70630,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1122.00,https://www.bls.gov/oes/2019/may/oes251122.htm
+25-1123,81300,82900,6300,68490,0.1,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1123.00,https://www.bls.gov/oes/2019/may/oes251123.htm
+25-1124,30600,32300,2500,69990,0.2,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1124.00,https://www.bls.gov/oes/2019/may/oes251124.htm
+25-1125,26000,27000,2100,75170,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1125.00,https://www.bls.gov/oes/2019/may/oes251125.htm
+25-1126,30900,32900,2600,75240,0.3,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1126.00,https://www.bls.gov/oes/2019/may/oes251126.htm
+25-1192,2500,2600,200,76480,,Master's degree,None,https://www.onetonline.org/link/summary/25-1192.00,https://www.bls.gov/oes/2019/may/oes251192.htm
+25-1193,19100,19600,1500,64380,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1193.00,https://www.bls.gov/oes/2019/may/oes251193.htm
+25-1194,124100,125500,9400,54620,0.2,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/25-1194.00,https://www.bls.gov/oes/2019/may/oes251194.htm
+25-1199,245900,250700,18900,68970,0.1,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/25-1199.00,https://www.bls.gov/oes/2019/may/oes251199.htm
+25-2011,540400,553900,50600,30520,0.9,Associate's degree,None,https://www.onetonline.org/link/summary/25-2011.00,https://www.bls.gov/oes/2019/may/oes252011.htm
+25-2012,127700,132400,12200,56850,0.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2012.00,https://www.bls.gov/oes/2019/may/oes252012.htm
+25-2021,1452100,1503500,103200,59670,,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2021.00,https://www.bls.gov/oes/2019/may/oes252021.htm
+25-2022,627100,649600,44600,59660,,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2022.00,https://www.bls.gov/oes/2019/may/oes252022.htm
+25-2023,11800,12100,800,60800,,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/25-2023.00,https://www.bls.gov/oes/2019/may/oes252023.htm
+25-2031,1050800,1090900,71100,61660,,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2031.00,https://www.bls.gov/oes/2019/may/oes252031.htm
+25-2032,73800,75500,4800,61710,,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/25-2032.00,https://www.bls.gov/oes/2019/may/oes252032.htm
+25-2051,23000,24900,1800,60000,0.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2051.00,https://www.bls.gov/oes/2019/may/oes252051.htm
+25-2052,193000,198600,13900,60460,0.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2052.00,https://www.bls.gov/oes/2019/may/oes252052.htm
+25-2057,84700,86900,6100,61440,,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2057.00,https://www.bls.gov/oes/2019/may/oes252057.htm
+25-2058,143000,147600,10300,61710,0.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2058.00,https://www.bls.gov/oes/2019/may/oes252058.htm
+25-2059,36600,39700,2900,61190,0.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-2059.00,https://www.bls.gov/oes/2019/may/oes252059.htm
+25-3011,59300,53100,5300,54350,7.5,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-3011.00,https://www.bls.gov/oes/2019/may/oes253011.htm
+25-3021,386200,425900,46500,39190,21.4,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/25-3021.00,https://www.bls.gov/oes/2019/may/oes253021.htm
+25-3031,619400,635300,67300,28790,5.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-3031.00,https://www.bls.gov/oes/2019/may/oes253031.htm
+25-3097,406200,436400,47200,39350,14.8,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-3097.00,https://www.bls.gov/oes/2019/may/oes253097.htm
+25-4011,8100,8800,900,53950,4.7,Master's degree,None,https://www.onetonline.org/link/summary/25-4011.00,https://www.bls.gov/oes/2019/may/oes254011.htm
+25-4012,14500,16400,1800,54570,5.7,Master's degree,None,https://www.onetonline.org/link/summary/25-4012.00,https://www.bls.gov/oes/2019/may/oes254012.htm
+25-4013,14800,16500,1800,44430,5.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-4013.00,https://www.bls.gov/oes/2019/may/oes254013.htm
+25-4022,146500,153800,13800,59500,1.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-4022.00,https://www.bls.gov/oes/2019/may/oes254022.htm
+25-4031,94100,90500,12700,34900,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/25-4031.00,https://www.bls.gov/oes/2019/may/oes254031.htm
+25-9021,10400,10000,800,49710,0.7,Master's degree,None,https://www.onetonline.org/link/summary/25-9021.00,https://www.bls.gov/oes/2019/may/oes259021.htm
+25-9031,192900,204300,17700,66290,2,Master's degree,5 years or more,https://www.onetonline.org/link/summary/25-9031.00,https://www.bls.gov/oes/2019/may/oes259031.htm
+25-9044,169600,175400,13400,32080,0.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-9044.00,https://www.bls.gov/oes/2019/may/oes259044.htm
+25-9045,1395900,1446400,140400,27920,0.2,"Some college, no degree",None,https://www.onetonline.org/link/summary/25-9045.00,https://www.bls.gov/oes/2019/may/oes259045.htm
+25-9099,141400,147700,12700,40310,1.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/25-9099.00,https://www.bls.gov/oes/2019/may/oes259099.htm
+27-1011,99100,97300,9200,94220,55.6,Bachelor's degree,5 years or more,https://www.onetonline.org/link/summary/27-1011.00,https://www.bls.gov/oes/2019/may/oes271011.htm
+27-1012,10600,10500,1000,34710,55.9,No formal educational credential,None,https://www.onetonline.org/link/summary/27-1012.00,https://www.bls.gov/oes/2019/may/oes271012.htm
+27-1013,28300,28600,2700,50550,55.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1013.00,https://www.bls.gov/oes/2019/may/oes271013.htm
+27-1014,67500,70300,6900,75270,55.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1014.00,https://www.bls.gov/oes/2019/may/oes271014.htm
+27-1019,13100,13000,1200,64490,38.1,No formal educational credential,None,https://www.onetonline.org/link/summary/27-1019.00,https://www.bls.gov/oes/2019/may/oes271019.htm
+27-1021,42200,40700,3400,68890,21.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1021.00,https://www.bls.gov/oes/2019/may/oes271021.htm
+27-1022,28300,27000,2300,73790,22,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1022.00,https://www.bls.gov/oes/2019/may/oes271022.htm
+27-1023,51800,41400,3000,28040,22.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-1023.00,https://www.bls.gov/oes/2019/may/oes271023.htm
+27-1024,281500,270800,22700,52110,20.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1024.00,https://www.bls.gov/oes/2019/may/oes271024.htm
+27-1025,77900,74100,6200,56040,21.8,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1025.00,https://www.bls.gov/oes/2019/may/oes271025.htm
+27-1026,180400,174200,14600,29460,22.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-1026.00,https://www.bls.gov/oes/2019/may/oes271026.htm
+27-1027,15200,15400,1300,54600,20.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1027.00,https://www.bls.gov/oes/2019/may/oes271027.htm
+27-1029,13600,13400,1100,64620,21.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-1029.00,https://www.bls.gov/oes/2019/may/oes271029.htm
+27-2011,70100,72200,7100,,23.9,"Some college, no degree",None,https://www.onetonline.org/link/summary/27-2011.00,https://www.bls.gov/oes/2019/may/oes272011.htm
+27-2012,159500,175500,15200,74420,16.9,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/27-2012.00,https://www.bls.gov/oes/2019/may/oes272012.htm
+27-2021,13600,15000,2100,51370,14.2,No formal educational credential,None,https://www.onetonline.org/link/summary/27-2021.00,https://www.bls.gov/oes/2019/may/oes272021.htm
+27-2022,292000,326400,45300,34840,10.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-2022.00,https://www.bls.gov/oes/2019/may/oes272022.htm
+27-2023,22800,24600,3400,28550,8.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-2023.00,https://www.bls.gov/oes/2019/may/oes272023.htm
+27-2031,11400,11700,1800,,15,No formal educational credential,None,https://www.onetonline.org/link/summary/27-2031.00,https://www.bls.gov/oes/2019/may/oes272031.htm
+27-2032,5500,6300,1000,46330,14.9,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/27-2032.00,https://www.bls.gov/oes/2019/may/oes272032.htm
+27-2041,58000,59000,6300,51670,27.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/27-2041.00,https://www.bls.gov/oes/2019/may/oes272041.htm
+27-2042,175600,177200,19000,,38.3,No formal educational credential,None,https://www.onetonline.org/link/summary/27-2042.00,https://www.bls.gov/oes/2019/may/oes272042.htm
+27-3011,40800,38700,3700,34630,28.2,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-3011.00,https://www.bls.gov/oes/2019/may/oes273011.htm
+27-3023,52000,46200,4300,46270,15.9,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-3023.00,https://www.bls.gov/oes/2019/may/oes273023.htm
+27-3031,274600,294300,27100,61150,1.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-3031.00,https://www.bls.gov/oes/2019/may/oes273031.htm
+27-3041,118700,110000,9800,61370,13.8,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/27-3041.00,https://www.bls.gov/oes/2019/may/oes273041.htm
+27-3042,58400,62700,5700,72850,10.3,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/27-3042.00,https://www.bls.gov/oes/2019/may/oes273042.htm
+27-3043,131200,128200,11600,63200,63.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-3043.00,https://www.bls.gov/oes/2019/may/oes273043.htm
+27-3091,77400,92900,8800,51830,21.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-3091.00,https://www.bls.gov/oes/2019/may/oes273091.htm
+27-3092,15700,17000,1400,60130,4.6,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/27-3092.00,https://www.bls.gov/oes/2019/may/oes273092.htm
+27-3099,35200,38000,3600,47580,25.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-3099.00,https://www.bls.gov/oes/2019/may/oes273099.htm
+27-4011,91800,103100,10800,45910,9.1,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/27-4011.00,https://www.bls.gov/oes/2019/may/oes274011.htm
+27-4012,32700,33700,3400,40570,10,Associate's degree,None,https://www.onetonline.org/link/summary/27-4012.00,https://www.bls.gov/oes/2019/may/oes274012.htm
+27-4014,15800,16700,1700,54740,9.7,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/27-4014.00,https://www.bls.gov/oes/2019/may/oes274014.htm
+27-4021,133500,128700,10900,36280,63.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-4021.00,https://www.bls.gov/oes/2019/may/oes274021.htm
+27-4031,29700,33800,3000,55160,26.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-4031.00,https://www.bls.gov/oes/2019/may/oes274031.htm
+27-4032,38300,46500,4300,63780,27.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/27-4032.00,https://www.bls.gov/oes/2019/may/oes274032.htm
+27-4098,26600,27900,2800,73460,8.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/27-4098.00,https://www.bls.gov/oes/2019/may/oes274098.htm
+29-1011,51100,53400,1400,70340,31.4,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1011.00,https://www.bls.gov/oes/2019/may/oes291011.htm
+29-1021,132100,135700,4200,155600,15.6,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1021.00,https://www.bls.gov/oes/2019/may/oes291021.htm
+29-1022,5600,5700,200,208000,15.2,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1022.00,https://www.bls.gov/oes/2019/may/oes291022.htm
+29-1023,7200,7300,200,208000,15.9,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1023.00,https://www.bls.gov/oes/2019/may/oes291023.htm
+29-1024,600,600,0,208000,15.9,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1024.00,https://www.bls.gov/oes/2019/may/oes291024.htm
+29-1029,6200,6200,200,147220,9.7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1029.00,https://www.bls.gov/oes/2019/may/oes291029.htm
+29-1031,74200,80100,5300,61270,4.1,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-1031.00,https://www.bls.gov/oes/2019/may/oes291031.htm
+29-1041,44400,46300,1500,115250,10.9,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1041.00,https://www.bls.gov/oes/2019/may/oes291041.htm
+29-1051,321700,311200,11200,128090,1.8,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1051.00,https://www.bls.gov/oes/2019/may/oes291051.htm
+29-1071,125500,164800,11400,112260,2,Master's degree,None,https://www.onetonline.org/link/summary/29-1071.00,https://www.bls.gov/oes/2019/may/oes291071.htm
+29-1081,10500,10600,500,126240,4.8,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1081.00,https://www.bls.gov/oes/2019/may/oes291081.htm
+29-1122,143300,166000,10300,84950,4.3,Master's degree,None,https://www.onetonline.org/link/summary/29-1122.00,https://www.bls.gov/oes/2019/may/oes291122.htm
+29-1123,258200,305200,15200,89440,7.5,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1123.00,https://www.bls.gov/oes/2019/may/oes291123.htm
+29-1124,18500,19900,1000,85560,1.5,Associate's degree,None,https://www.onetonline.org/link/summary/29-1124.00,https://www.bls.gov/oes/2019/may/oes291124.htm
+29-1125,19900,21600,1200,48220,,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-1125.00,https://www.bls.gov/oes/2019/may/oes291125.htm
+29-1126,135800,162000,9200,61330,0.1,Associate's degree,None,https://www.onetonline.org/link/summary/29-1126.00,https://www.bls.gov/oes/2019/may/oes291126.htm
+29-1127,162600,203100,13700,79120,3.8,Master's degree,None,https://www.onetonline.org/link/summary/29-1127.00,https://www.bls.gov/oes/2019/may/oes291127.htm
+29-1128,19800,22100,1400,49170,62.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-1128.00,https://www.bls.gov/oes/2019/may/oes291128.htm
+29-1129,32600,37400,2400,52650,61.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-1129.00,https://www.bls.gov/oes/2019/may/oes291129.htm
+29-1131,89200,103400,4500,95460,13.6,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1131.00,https://www.bls.gov/oes/2019/may/oes291131.htm
+29-1141,3096700,3318700,175900,73300,0.6,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-1141.00,https://www.bls.gov/oes/2019/may/oes291141.htm
+29-1151,44900,51000,2900,174790,0.6,Master's degree,None,https://www.onetonline.org/link/summary/29-1151.00,https://www.bls.gov/oes/2019/may/oes291151.htm
+29-1161,7200,8100,500,105030,2.2,Master's degree,None,https://www.onetonline.org/link/summary/29-1161.00,https://www.bls.gov/oes/2019/may/oes291161.htm
+29-1171,211300,322000,24200,109820,2.2,Master's degree,None,https://www.onetonline.org/link/summary/29-1171.00,https://www.bls.gov/oes/2019/may/oes291171.htm
+29-1181,13800,15600,800,77600,,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1181.00,https://www.bls.gov/oes/2019/may/oes291181.htm
+29-1211,33800,34000,900,208000,7.1,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1211.00,https://www.bls.gov/oes/2019/may/oes291211.htm
+29-1215,119300,126600,4000,205590,6.7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1215.00,https://www.bls.gov/oes/2019/may/oes291215.htm
+29-1216,49500,49200,1300,201590,6.8,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1216.00,https://www.bls.gov/oes/2019/may/oes291216.htm
+29-1218,20300,20100,500,208000,7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1218.00,https://www.bls.gov/oes/2019/may/oes291218.htm
+29-1221,32500,32000,800,175310,7,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1221.00,https://www.bls.gov/oes/2019/may/oes291221.htm
+29-1223,27900,31300,1100,208000,5.6,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1223.00,https://www.bls.gov/oes/2019/may/oes291223.htm
+29-1228,429500,447900,13600,206500,5.9,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1228.00,https://www.bls.gov/oes/2019/may/oes291228.htm
+29-1248,39600,38800,1000,208000,6.9,Doctoral or professional degree,None,https://www.onetonline.org/link/summary/29-1248.00,https://www.bls.gov/oes/2019/may/oes291248.htm
+29-1292,226400,239700,15100,76220,1.6,Associate's degree,None,https://www.onetonline.org/link/summary/29-1292.00,https://www.bls.gov/oes/2019/may/oes291292.htm
+29-1298,49600,49400,2300,75640,21.2,Master's degree,None,https://www.onetonline.org/link/summary/29-1298.00,https://www.bls.gov/oes/2019/may/oes291298.htm
+29-2031,57400,60500,3200,57720,,Associate's degree,None,https://www.onetonline.org/link/summary/29-2031.00,https://www.bls.gov/oes/2019/may/oes292031.htm
+29-2032,74300,86800,5100,74320,,Associate's degree,None,https://www.onetonline.org/link/summary/29-2032.00,https://www.bls.gov/oes/2019/may/oes292032.htm
+29-2033,18500,19500,1000,77950,,Associate's degree,None,https://www.onetonline.org/link/summary/29-2033.00,https://www.bls.gov/oes/2019/may/oes292033.htm
+29-2034,212000,226100,12000,60510,0,Associate's degree,None,https://www.onetonline.org/link/summary/29-2034.00,https://www.bls.gov/oes/2019/may/oes292034.htm
+29-2035,38700,41400,2200,73410,,Associate's degree,Less than 5 years,https://www.onetonline.org/link/summary/29-2035.00,https://www.bls.gov/oes/2019/may/oes292035.htm
+29-2051,30200,32000,2500,28400,,Associate's degree,None,https://www.onetonline.org/link/summary/29-2051.00,https://www.bls.gov/oes/2019/may/oes292051.htm
+29-2052,422300,437600,33400,33950,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/29-2052.00,https://www.bls.gov/oes/2019/may/oes292052.htm
+29-2053,82800,93800,7600,33780,0.1,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/29-2053.00,https://www.bls.gov/oes/2019/may/oes292053.htm
+29-2055,111300,118900,9300,48300,0.1,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/29-2055.00,https://www.bls.gov/oes/2019/may/oes292055.htm
+29-2056,112900,131200,10900,35320,0.1,Associate's degree,None,https://www.onetonline.org/link/summary/29-2056.00,https://www.bls.gov/oes/2019/may/oes292056.htm
+29-2057,59500,67900,5600,36940,0.1,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/29-2057.00,https://www.bls.gov/oes/2019/may/oes292057.htm
+29-2061,721700,787400,58400,47480,0.7,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/29-2061.00,https://www.bls.gov/oes/2019/may/oes292061.htm
+29-2081,73800,76800,5700,37840,2.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/29-2081.00,https://www.bls.gov/oes/2019/may/oes292081.htm
+29-2091,10000,11700,900,68410,,Master's degree,None,https://www.onetonline.org/link/summary/29-2091.00,https://www.bls.gov/oes/2019/may/oes292091.htm
+29-2092,8100,9000,600,53420,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/29-2092.00,https://www.bls.gov/oes/2019/may/oes292092.htm
+29-2098,341600,370600,27800,42630,0.1,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/29-2098.00,https://www.bls.gov/oes/2019/may/oes292098.htm
+29-9091,32100,37300,2200,48440,4,Bachelor's degree,None,https://www.onetonline.org/link/summary/29-9091.00,https://www.bls.gov/oes/2019/may/oes299091.htm
+29-9092,2600,3200,200,81880,4.7,Master's degree,None,https://www.onetonline.org/link/summary/29-9092.00,https://www.bls.gov/oes/2019/may/oes299092.htm
+29-9098,59400,64100,3500,49850,4.2,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/29-9098.00,https://www.bls.gov/oes/2019/may/oes299098.htm
+31-1131,1528500,1645500,174000,29660,2.3,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-1131.00,https://www.bls.gov/oes/2019/may/oes311131.htm
+31-1132,50600,53100,5600,28980,2.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-1132.00,https://www.bls.gov/oes/2019/may/oes311132.htm
+31-1133,59500,66000,7100,31110,1.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-1133.00,https://www.bls.gov/oes/2019/may/oes311133.htm
+31-2011,47100,63500,6900,61510,2.7,Associate's degree,None,https://www.onetonline.org/link/summary/31-2011.00,https://www.bls.gov/oes/2019/may/oes312011.htm
+31-2012,8000,9500,1000,29230,2.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-2012.00,https://www.bls.gov/oes/2019/may/oes312012.htm
+31-2021,98700,130900,15100,58790,,Associate's degree,None,https://www.onetonline.org/link/summary/31-2021.00,https://www.bls.gov/oes/2019/may/oes312021.htm
+31-2022,50600,61300,6900,27000,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-2022.00,https://www.bls.gov/oes/2019/may/oes312022.htm
+31-9011,166700,201100,22000,42820,35,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-9011.00,https://www.bls.gov/oes/2019/may/oes319011.htm
+31-9091,354600,378000,39000,40080,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-9091.00,https://www.bls.gov/oes/2019/may/oes319091.htm
+31-9092,725200,864400,92800,34800,0.2,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-9092.00,https://www.bls.gov/oes/2019/may/oes319092.htm
+31-9093,58700,62200,6700,37440,0.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-9093.00,https://www.bls.gov/oes/2019/may/oes319093.htm
+31-9094,58500,57200,6900,33380,4,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-9094.00,https://www.bls.gov/oes/2019/may/oes319094.htm
+31-9095,37900,32000,3200,27850,1.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-9095.00,https://www.bls.gov/oes/2019/may/oes319095.htm
+31-9096,99500,115200,16900,28590,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-9096.00,https://www.bls.gov/oes/2019/may/oes319096.htm
+31-9097,132600,155500,15800,35510,1.2,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/31-9097.00,https://www.bls.gov/oes/2019/may/oes319097.htm
+31-9099,96900,103600,11300,38460,0.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/31-9099.00,https://www.bls.gov/oes/2019/may/oes319099.htm
+33-1011,48700,44900,2800,63730,,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-1011.00,https://www.bls.gov/oes/2019/may/oes331011.htm
+33-1012,126100,132700,8300,91090,,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-1012.00,https://www.bls.gov/oes/2019/may/oes331012.htm
+33-1021,71500,75900,4600,77800,,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/33-1021.00,https://www.bls.gov/oes/2019/may/oes331021.htm
+33-2011,335500,355800,24200,50850,0.4,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/33-2011.00,https://www.bls.gov/oes/2019/may/oes332011.htm
+33-2021,14200,15000,1500,61660,0.4,Postsecondary nondegree award,5 years or more,https://www.onetonline.org/link/summary/33-2021.00,https://www.bls.gov/oes/2019/may/oes332021.htm
+33-2022,2300,2800,300,45270,,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-2022.00,https://www.bls.gov/oes/2019/may/oes332022.htm
+33-3011,20300,20300,1700,47830,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-3011.00,https://www.bls.gov/oes/2019/may/oes333011.htm
+33-3012,442000,408900,33000,45180,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-3012.00,https://www.bls.gov/oes/2019/may/oes333012.htm
+33-3021,113500,114700,7300,83170,0.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-3021.00,https://www.bls.gov/oes/2019/may/oes333021.htm
+33-3031,7200,7300,500,57500,,Bachelor's degree,None,https://www.onetonline.org/link/summary/33-3031.00,https://www.bls.gov/oes/2019/may/oes333031.htm
+33-3041,8100,5200,200,40920,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-3041.00,https://www.bls.gov/oes/2019/may/oes333041.htm
+33-3051,688400,727400,51000,63150,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-3051.00,https://www.bls.gov/oes/2019/may/oes333051.htm
+33-3052,4500,4700,300,71820,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-3052.00,https://www.bls.gov/oes/2019/may/oes333052.htm
+33-9011,13900,14800,1400,37590,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-9011.00,https://www.bls.gov/oes/2019/may/oes339011.htm
+33-9021,36200,39200,3300,50510,3,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-9021.00,https://www.bls.gov/oes/2019/may/oes339021.htm
+33-9031,10500,11100,1400,34190,,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/33-9031.00,https://www.bls.gov/oes/2019/may/oes339031.htm
+33-9032,1154100,1186800,142700,29680,0.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-9032.00,https://www.bls.gov/oes/2019/may/oes339032.htm
+33-9091,86700,91600,15400,29760,,No formal educational credential,None,https://www.onetonline.org/link/summary/33-9091.00,https://www.bls.gov/oes/2019/may/oes339091.htm
+33-9092,149800,163300,39300,23420,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/33-9092.00,https://www.bls.gov/oes/2019/may/oes339092.htm
+33-9093,51400,49800,4300,41770,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-9093.00,https://www.bls.gov/oes/2019/may/oes339093.htm
+33-9098,145600,151800,36700,30990,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/33-9098.00,https://www.bls.gov/oes/2019/may/oes339098.htm
+35-1011,148700,158100,18500,51530,10.1,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/35-1011.00,https://www.bls.gov/oes/2019/may/oes351011.htm
+35-1012,1039300,1100200,152600,33400,1.4,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/35-1012.00,https://www.bls.gov/oes/2019/may/oes351012.htm
+35-2011,534000,462300,57300,23510,,No formal educational credential,None,https://www.onetonline.org/link/summary/35-2011.00,https://www.bls.gov/oes/2019/may/oes352011.htm
+35-2012,420200,428700,55800,27750,,No formal educational credential,None,https://www.onetonline.org/link/summary/35-2012.00,https://www.bls.gov/oes/2019/may/oes352012.htm
+35-2013,23800,22300,2800,37870,61.9,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/35-2013.00,https://www.bls.gov/oes/2019/may/oes352013.htm
+35-2014,1417300,1744600,237200,27790,,No formal educational credential,Less than 5 years,https://www.onetonline.org/link/summary/35-2014.00,https://www.bls.gov/oes/2019/may/oes352014.htm
+35-2015,154700,147900,18900,25150,,No formal educational credential,None,https://www.onetonline.org/link/summary/35-2015.00,https://www.bls.gov/oes/2019/may/oes352015.htm
+35-2019,21800,22500,2900,30760,,No formal educational credential,None,https://www.onetonline.org/link/summary/35-2019.00,https://www.bls.gov/oes/2019/may/oes352019.htm
+35-2021,886700,877200,139400,24800,1.1,No formal educational credential,None,https://www.onetonline.org/link/summary/35-2021.00,https://www.bls.gov/oes/2019/may/oes352021.htm
+35-3011,654700,693100,108700,23680,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/35-3011.00,https://www.bls.gov/oes/2019/may/oes353011.htm
+35-3023,4047700,4508600,826600,22740,0,No formal educational credential,None,https://www.onetonline.org/link/summary/35-3023.00,https://www.bls.gov/oes/2019/may/oes353023.htm
+35-3031,2613800,2711400,475700,22890,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/35-3031.00,https://www.bls.gov/oes/2019/may/oes353031.htm
+35-3041,284600,303900,45100,24430,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/35-3041.00,https://www.bls.gov/oes/2019/may/oes353041.htm
+35-9011,488000,519900,83000,23470,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/35-9011.00,https://www.bls.gov/oes/2019/may/oes359011.htm
+35-9021,522300,524700,77600,23970,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/35-9021.00,https://www.bls.gov/oes/2019/may/oes359021.htm
+35-9031,429700,464900,98100,23090,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/35-9031.00,https://www.bls.gov/oes/2019/may/oes359031.htm
+35-9099,74100,79200,12600,24970,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/35-9099.00,https://www.bls.gov/oes/2019/may/oes359099.htm
+37-1011,231900,251200,26800,40780,30.3,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/37-1011.00,https://www.bls.gov/oes/2019/may/oes371011.htm
+37-1012,170700,190100,18900,49370,38.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/37-1012.00,https://www.bls.gov/oes/2019/may/oes371012.htm
+37-2011,2374200,2479800,305600,27430,4,No formal educational credential,None,https://www.onetonline.org/link/summary/37-2011.00,https://www.bls.gov/oes/2019/may/oes372011.htm
+37-2012,1474900,1470700,181500,24850,8.3,No formal educational credential,None,https://www.onetonline.org/link/summary/37-2012.00,https://www.bls.gov/oes/2019/may/oes372012.htm
+37-2019,19400,20400,2500,31230,5.2,No formal educational credential,None,https://www.onetonline.org/link/summary/37-2019.00,https://www.bls.gov/oes/2019/may/oes372019.htm
+37-2021,87600,95000,12100,37330,5.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/37-2021.00,https://www.bls.gov/oes/2019/may/oes372021.htm
+37-3011,1188000,1307900,158900,30440,21.7,No formal educational credential,None,https://www.onetonline.org/link/summary/37-3011.00,https://www.bls.gov/oes/2019/may/oes373011.htm
+37-3012,38100,41200,5000,35840,18.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/37-3012.00,https://www.bls.gov/oes/2019/may/oes373012.htm
+37-3013,62000,68600,8300,39980,23,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/37-3013.00,https://www.bls.gov/oes/2019/may/oes373013.htm
+37-3019,17400,18500,2200,32090,14.4,No formal educational credential,None,https://www.onetonline.org/link/summary/37-3019.00,https://www.bls.gov/oes/2019/may/oes373019.htm
+39-1013,58000,67500,9700,50710,48.3,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/39-1013.00,https://www.bls.gov/oes/2019/may/oes391013.htm
+39-1098,313100,348100,31800,39800,27.7,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/39-1098.00,https://www.bls.gov/oes/2019/may/oes391098.htm
+39-2011,50200,56900,7600,30430,35.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-2011.00,https://www.bls.gov/oes/2019/may/oes392011.htm
+39-2021,300700,369500,54900,24780,26.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-2021.00,https://www.bls.gov/oes/2019/may/oes392021.htm
+39-3011,102900,110700,16400,21260,2.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3011.00,https://www.bls.gov/oes/2019/may/oes393011.htm
+39-3012,10400,10800,1600,24750,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3012.00,https://www.bls.gov/oes/2019/may/oes393012.htm
+39-3019,10900,11600,1700,28300,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3019.00,https://www.bls.gov/oes/2019/may/oes393019.htm
+39-3021,4700,4100,900,25150,2.2,No formal educational credential,None,https://www.onetonline.org/link/summary/39-3021.00,https://www.bls.gov/oes/2019/may/oes393021.htm
+39-3031,139000,143700,31900,23500,0.1,No formal educational credential,None,https://www.onetonline.org/link/summary/39-3031.00,https://www.bls.gov/oes/2019/may/oes393031.htm
+39-3091,357700,394700,81800,23370,1.6,No formal educational credential,None,https://www.onetonline.org/link/summary/39-3091.00,https://www.bls.gov/oes/2019/may/oes393091.htm
+39-3092,7700,8100,1700,41410,1.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3092.00,https://www.bls.gov/oes/2019/may/oes393092.htm
+39-3093,16800,18100,3800,25110,1.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3093.00,https://www.bls.gov/oes/2019/may/oes393093.htm
+39-3099,4800,5100,1100,26460,1.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-3099.00,https://www.bls.gov/oes/2019/may/oes393099.htm
+39-4011,3900,3600,500,47760,,Associate's degree,None,https://www.onetonline.org/link/summary/39-4011.00,https://www.bls.gov/oes/2019/may/oes394011.htm
+39-4021,34300,33300,5000,27930,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-4021.00,https://www.bls.gov/oes/2019/may/oes394021.htm
+39-4031,26600,26100,2700,54150,4.6,Associate's degree,None,https://www.onetonline.org/link/summary/39-4031.00,https://www.bls.gov/oes/2019/may/oes394031.htm
+39-5011,66500,71500,7200,30150,69.6,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/39-5011.00,https://www.bls.gov/oes/2019/may/oes395011.htm
+39-5012,656100,641800,70600,26090,41,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/39-5012.00,https://www.bls.gov/oes/2019/may/oes395012.htm
+39-5091,4700,5200,600,75730,27.8,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/39-5091.00,https://www.bls.gov/oes/2019/may/oes395091.htm
+39-5092,155300,185200,20400,25770,27.5,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/39-5092.00,https://www.bls.gov/oes/2019/may/oes395092.htm
+39-5093,16800,18800,2000,22550,27.5,No formal educational credential,None,https://www.onetonline.org/link/summary/39-5093.00,https://www.bls.gov/oes/2019/may/oes395093.htm
+39-5094,78600,91600,10000,34090,27.5,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/39-5094.00,https://www.bls.gov/oes/2019/may/oes395094.htm
+39-6011,40600,42800,5600,25580,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-6011.00,https://www.bls.gov/oes/2019/may/oes396011.htm
+39-6012,42600,45500,6000,31390,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-6012.00,https://www.bls.gov/oes/2019/may/oes396012.htm
+39-9011,1146400,1165900,160200,24230,22.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-9011.00,https://www.bls.gov/oes/2019/may/oes399011.htm
+39-9031,373700,431300,66400,40390,11,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-9031.00,https://www.bls.gov/oes/2019/may/oes399031.htm
+39-9032,417100,458700,70200,26350,7.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-9032.00,https://www.bls.gov/oes/2019/may/oes399032.htm
+39-9041,115200,128700,18500,29450,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-9041.00,https://www.bls.gov/oes/2019/may/oes399041.htm
+39-9098,111300,128800,17100,27130,36.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/39-9098.00,https://www.bls.gov/oes/2019/may/oes399098.htm
+41-1011,1476400,1395300,131000,40350,21.4,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/41-1011.00,https://www.bls.gov/oes/2019/may/oes411011.htm
+41-1012,409800,375700,28800,74760,38.2,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/41-1012.00,https://www.bls.gov/oes/2019/may/oes411012.htm
+41-2011,3600900,3335500,558600,23650,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/41-2011.00,https://www.bls.gov/oes/2019/may/oes412011.htm
+41-2012,21700,22200,3800,25690,,No formal educational credential,None,https://www.onetonline.org/link/summary/41-2012.00,https://www.bls.gov/oes/2019/may/oes412012.htm
+41-2021,420400,424900,46100,28820,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/41-2021.00,https://www.bls.gov/oes/2019/may/oes412021.htm
+41-2022,261700,267000,29100,31710,1.1,No formal educational credential,None,https://www.onetonline.org/link/summary/41-2022.00,https://www.bls.gov/oes/2019/may/oes412022.htm
+41-2031,4371400,4346300,568100,25250,3.1,No formal educational credential,None,https://www.onetonline.org/link/summary/41-2031.00,https://www.bls.gov/oes/2019/may/oes412031.htm
+41-3011,139200,130200,14400,53310,6.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-3011.00,https://www.bls.gov/oes/2019/may/oes413011.htm
+41-3021,501300,528800,45900,50940,12.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-3021.00,https://www.bls.gov/oes/2019/may/oes413021.htm
+41-3031,464200,481600,40500,62270,4.3,Bachelor's degree,None,https://www.onetonline.org/link/summary/41-3031.00,https://www.bls.gov/oes/2019/may/oes413031.htm
+41-3041,82000,60800,5700,40660,17,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-3041.00,https://www.bls.gov/oes/2019/may/oes413041.htm
+41-3091,1070500,1134700,123800,56130,1.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-3091.00,https://www.bls.gov/oes/2019/may/oes413091.htm
+41-4011,321000,334000,30700,81020,2.7,Bachelor's degree,None,https://www.onetonline.org/link/summary/41-4011.00,https://www.bls.gov/oes/2019/may/oes414011.htm
+41-4012,1399700,1412900,127500,59930,2.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-4012.00,https://www.bls.gov/oes/2019/may/oes414012.htm
+41-9011,88100,90900,15300,30930,11.4,No formal educational credential,None,https://www.onetonline.org/link/summary/41-9011.00,https://www.bls.gov/oes/2019/may/oes419011.htm
+41-9012,2700,2700,500,28350,8.4,No formal educational credential,None,https://www.onetonline.org/link/summary/41-9012.00,https://www.bls.gov/oes/2019/may/oes419012.htm
+41-9021,100700,103300,8700,59720,56.3,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/41-9021.00,https://www.bls.gov/oes/2019/may/oes419021.htm
+41-9022,376500,385200,32400,48930,55.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-9022.00,https://www.bls.gov/oes/2019/may/oes419022.htm
+41-9031,64500,68600,6700,103900,,Bachelor's degree,None,https://www.onetonline.org/link/summary/41-9031.00,https://www.bls.gov/oes/2019/may/oes419031.htm
+41-9041,136900,117500,15500,26290,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/41-9041.00,https://www.bls.gov/oes/2019/may/oes419041.htm
+41-9091,72900,58300,6300,27420,87.7,No formal educational credential,None,https://www.onetonline.org/link/summary/41-9091.00,https://www.bls.gov/oes/2019/may/oes419091.htm
+41-9099,142900,145600,16900,31820,13.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/41-9099.00,https://www.bls.gov/oes/2019/may/oes419099.htm
+43-1011,1552400,1505700,138200,56620,0.5,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/43-1011.00,https://www.bls.gov/oes/2019/may/oes431011.htm
+43-2011,69900,54100,4700,30610,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-2011.00,https://www.bls.gov/oes/2019/may/oes432011.htm
+43-2021,5000,3600,400,35750,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-2021.00,https://www.bls.gov/oes/2019/may/oes432021.htm
+43-2099,3600,3900,400,42790,7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-2099.00,https://www.bls.gov/oes/2019/may/oes432099.htm
+43-3011,238900,223500,22900,37000,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3011.00,https://www.bls.gov/oes/2019/may/oes433011.htm
+43-3021,484200,493500,48100,38740,1.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3021.00,https://www.bls.gov/oes/2019/may/oes433021.htm
+43-3031,1673600,1578200,162100,41230,4,"Some college, no degree",None,https://www.onetonline.org/link/summary/43-3031.00,https://www.bls.gov/oes/2019/may/oes433031.htm
+43-3041,14600,15400,1800,28040,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3041.00,https://www.bls.gov/oes/2019/may/oes433041.htm
+43-3051,149800,143100,13700,46180,0.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3051.00,https://www.bls.gov/oes/2019/may/oes433051.htm
+43-3061,68500,63400,5300,43310,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3061.00,https://www.bls.gov/oes/2019/may/oes433061.htm
+43-3071,449000,380400,36700,31230,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3071.00,https://www.bls.gov/oes/2019/may/oes433071.htm
+43-3099,32600,35400,3600,42420,3.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-3099.00,https://www.bls.gov/oes/2019/may/oes433099.htm
+43-4011,48600,50500,4900,52750,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4011.00,https://www.bls.gov/oes/2019/may/oes434011.htm
+43-4021,6800,6600,700,38140,5.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4021.00,https://www.bls.gov/oes/2019/may/oes434021.htm
+43-4031,163700,171600,15600,39380,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4031.00,https://www.bls.gov/oes/2019/may/oes434031.htm
+43-4041,26900,25600,2200,40100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4041.00,https://www.bls.gov/oes/2019/may/oes434041.htm
+43-4051,3018800,2959800,350200,34710,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4051.00,https://www.bls.gov/oes/2019/may/oes434051.htm
+43-4061,147500,153100,13700,46590,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4061.00,https://www.bls.gov/oes/2019/may/oes434061.htm
+43-4071,106700,91100,9400,32710,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4071.00,https://www.bls.gov/oes/2019/may/oes434071.htm
+43-4081,276500,257400,38500,24470,0.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4081.00,https://www.bls.gov/oes/2019/may/oes434081.htm
+43-4111,201900,207000,23900,34970,1.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4111.00,https://www.bls.gov/oes/2019/may/oes434111.htm
+43-4121,90500,87000,12200,27490,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4121.00,https://www.bls.gov/oes/2019/may/oes434121.htm
+43-4131,212600,230300,21200,40640,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4131.00,https://www.bls.gov/oes/2019/may/oes434131.htm
+43-4141,44300,37800,3400,36550,0.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4141.00,https://www.bls.gov/oes/2019/may/oes434141.htm
+43-4151,146000,129100,12800,34240,5.7,"Some college, no degree",None,https://www.onetonline.org/link/summary/43-4151.00,https://www.bls.gov/oes/2019/may/oes434151.htm
+43-4161,123900,117700,11500,41430,1.4,Associate's degree,None,https://www.onetonline.org/link/summary/43-4161.00,https://www.bls.gov/oes/2019/may/oes434161.htm
+43-4171,1105300,1144700,139200,30050,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4171.00,https://www.bls.gov/oes/2019/may/oes434171.htm
+43-4181,126300,122700,12500,38380,1.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4181.00,https://www.bls.gov/oes/2019/may/oes434181.htm
+43-4199,166500,171500,17800,41360,0.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-4199.00,https://www.bls.gov/oes/2019/may/oes434199.htm
+43-5011,97200,102600,9100,43740,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5011.00,https://www.bls.gov/oes/2019/may/oes435011.htm
+43-5021,121800,119100,10400,29690,36.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5021.00,https://www.bls.gov/oes/2019/may/oes435021.htm
+43-5031,98300,104300,9200,41910,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5031.00,https://www.bls.gov/oes/2019/may/oes435031.htm
+43-5032,204600,202700,17100,40190,1.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5032.00,https://www.bls.gov/oes/2019/may/oes435032.htm
+43-5041,30900,27400,2200,42280,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5041.00,https://www.bls.gov/oes/2019/may/oes435041.htm
+43-5051,78100,67500,4300,48330,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5051.00,https://www.bls.gov/oes/2019/may/oes435051.htm
+43-5052,326600,282500,16100,51310,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5052.00,https://www.bls.gov/oes/2019/may/oes435052.htm
+43-5053,98500,80900,5200,60140,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5053.00,https://www.bls.gov/oes/2019/may/oes435053.htm
+43-5061,378500,393300,37500,48260,0,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5061.00,https://www.bls.gov/oes/2019/may/oes435061.htm
+43-5071,710400,648800,54300,34190,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5071.00,https://www.bls.gov/oes/2019/may/oes435071.htm
+43-5111,61300,64500,6400,35040,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-5111.00,https://www.bls.gov/oes/2019/may/oes435111.htm
+43-6011,593400,472400,42300,60890,0.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/43-6011.00,https://www.bls.gov/oes/2019/may/oes436011.htm
+43-6012,171800,133800,11800,47300,1.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-6012.00,https://www.bls.gov/oes/2019/may/oes436012.htm
+43-6013,623400,682700,72600,36580,1.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-6013.00,https://www.bls.gov/oes/2019/may/oes436013.htm
+43-6014,2250200,2022600,195200,37690,0.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-6014.00,https://www.bls.gov/oes/2019/may/oes436014.htm
+43-9021,172400,130000,10900,33490,3.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9021.00,https://www.bls.gov/oes/2019/may/oes439021.htm
+43-9022,52700,33500,2900,40340,6.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9022.00,https://www.bls.gov/oes/2019/may/oes439022.htm
+43-9031,10400,8400,800,45390,13.9,Associate's degree,None,https://www.onetonline.org/link/summary/43-9031.00,https://www.bls.gov/oes/2019/may/oes439031.htm
+43-9041,293900,287300,25500,40750,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9041.00,https://www.bls.gov/oes/2019/may/oes439041.htm
+43-9051,88400,82500,8300,30960,1.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9051.00,https://www.bls.gov/oes/2019/may/oes439051.htm
+43-9061,3126300,2970400,317500,34040,0.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9061.00,https://www.bls.gov/oes/2019/may/oes439061.htm
+43-9071,47300,41100,3800,33450,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9071.00,https://www.bls.gov/oes/2019/may/oes439071.htm
+43-9081,10300,10100,1200,40630,17.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/43-9081.00,https://www.bls.gov/oes/2019/may/oes439081.htm
+43-9111,10800,11500,1300,49870,1.4,Bachelor's degree,None,https://www.onetonline.org/link/summary/43-9111.00,https://www.bls.gov/oes/2019/may/oes439111.htm
+43-9199,220800,229600,24100,35470,8.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/43-9199.00,https://www.bls.gov/oes/2019/may/oes439199.htm
+45-1011,53200,52600,6900,48280,19.8,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/45-1011.00,https://www.bls.gov/oes/2019/may/oes451011.htm
+45-2011,15200,15500,2200,45490,,Bachelor's degree,None,https://www.onetonline.org/link/summary/45-2011.00,https://www.bls.gov/oes/2019/may/oes452011.htm
+45-2021,8400,8100,1200,42920,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-2021.00,https://www.bls.gov/oes/2019/may/oes452021.htm
+45-2041,38300,38300,5000,25670,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/45-2041.00,https://www.bls.gov/oes/2019/may/oes452041.htm
+45-2091,70300,78300,11600,31950,0.6,No formal educational credential,None,https://www.onetonline.org/link/summary/45-2091.00,https://www.bls.gov/oes/2019/may/oes452091.htm
+45-2092,566500,587900,85800,25440,0.8,No formal educational credential,None,https://www.onetonline.org/link/summary/45-2092.00,https://www.bls.gov/oes/2019/may/oes452092.htm
+45-2093,245400,225100,32100,27830,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/45-2093.00,https://www.bls.gov/oes/2019/may/oes452093.htm
+45-2099,12300,12700,1800,29590,0.7,No formal educational credential,None,https://www.onetonline.org/link/summary/45-2099.00,https://www.bls.gov/oes/2019/may/oes452099.htm
+45-3031,36700,33900,4600,,33.8,No formal educational credential,None,https://www.onetonline.org/link/summary/45-3031.00,https://www.bls.gov/oes/2019/may/oes453031.htm
+45-4011,13200,13100,1800,31770,20.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-4011.00,https://www.bls.gov/oes/2019/may/oes454011.htm
+45-4021,7200,6000,800,44650,27,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-4021.00,https://www.bls.gov/oes/2019/may/oes454021.htm
+45-4022,39200,34300,4700,41440,26.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-4022.00,https://www.bls.gov/oes/2019/may/oes454022.htm
+45-4023,4800,4300,600,37280,27.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-4023.00,https://www.bls.gov/oes/2019/may/oes454023.htm
+45-4029,5700,4900,700,39780,26.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/45-4029.00,https://www.bls.gov/oes/2019/may/oes454029.htm
+47-1011,685000,718000,65500,66210,8,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/47-1011.00,https://www.bls.gov/oes/2019/may/oes471011.htm
+47-2011,15900,16000,1400,63100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2011.00,https://www.bls.gov/oes/2019/may/oes472011.htm
+47-2021,81900,76700,6400,53100,26.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2021.00,https://www.bls.gov/oes/2019/may/oes472021.htm
+47-2022,16800,16300,1400,43280,27,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2022.00,https://www.bls.gov/oes/2019/may/oes472022.htm
+47-2031,1024100,1019900,89000,48330,27.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2031.00,https://www.bls.gov/oes/2019/may/oes472031.htm
+47-2041,36500,33300,2500,40090,28,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2041.00,https://www.bls.gov/oes/2019/may/oes472041.htm
+47-2042,22900,25200,2200,44240,27.9,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2042.00,https://www.bls.gov/oes/2019/may/oes472042.htm
+47-2043,7000,7100,600,39610,27.9,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2043.00,https://www.bls.gov/oes/2019/may/oes472043.htm
+47-2044,57000,61900,5400,43050,27.8,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2044.00,https://www.bls.gov/oes/2019/may/oes472044.htm
+47-2051,200400,196400,16800,44810,1.6,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2051.00,https://www.bls.gov/oes/2019/may/oes472051.htm
+47-2053,3000,2700,200,52180,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2053.00,https://www.bls.gov/oes/2019/may/oes472053.htm
+47-2061,1398000,1473400,141100,36860,26.7,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2061.00,https://www.bls.gov/oes/2019/may/oes472061.htm
+47-2071,46600,48800,5200,40130,1.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2071.00,https://www.bls.gov/oes/2019/may/oes472071.htm
+47-2072,3600,3800,400,62600,2.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2072.00,https://www.bls.gov/oes/2019/may/oes472072.htm
+47-2073,418000,434900,43900,48980,1.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2073.00,https://www.bls.gov/oes/2019/may/oes472073.htm
+47-2081,125100,125600,10100,45700,17.8,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2081.00,https://www.bls.gov/oes/2019/may/oes472081.htm
+47-2082,21800,21000,1600,59070,17.8,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2082.00,https://www.bls.gov/oes/2019/may/oes472082.htm
+47-2111,739200,801400,82200,56180,5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2111.00,https://www.bls.gov/oes/2019/may/oes472111.htm
+47-2121,52800,54800,5400,44630,0.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2121.00,https://www.bls.gov/oes/2019/may/oes472121.htm
+47-2131,34000,34500,3200,40380,1.1,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2131.00,https://www.bls.gov/oes/2019/may/oes472131.htm
+47-2132,27300,28600,2700,48690,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2132.00,https://www.bls.gov/oes/2019/may/oes472132.htm
+47-2141,379500,380300,32300,40280,37.7,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2141.00,https://www.bls.gov/oes/2019/may/oes472141.htm
+47-2142,5600,5500,500,40520,39.1,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2142.00,https://www.bls.gov/oes/2019/may/oes472142.htm
+47-2151,38900,40700,4000,38820,7.2,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2151.00,https://www.bls.gov/oes/2019/may/oes472151.htm
+47-2152,490200,511100,49800,55160,8.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2152.00,https://www.bls.gov/oes/2019/may/oes472152.htm
+47-2161,27700,28800,2300,45440,1.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2161.00,https://www.bls.gov/oes/2019/may/oes472161.htm
+47-2171,18800,19800,2600,49100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2171.00,https://www.bls.gov/oes/2019/may/oes472171.htm
+47-2181,161600,165400,14700,42100,18.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-2181.00,https://www.bls.gov/oes/2019/may/oes472181.htm
+47-2211,137700,139500,12700,50400,3.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2211.00,https://www.bls.gov/oes/2019/may/oes472211.htm
+47-2221,77000,80600,8100,55040,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2221.00,https://www.bls.gov/oes/2019/may/oes472221.htm
+47-2231,12000,18100,2300,44890,6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-2231.00,https://www.bls.gov/oes/2019/may/oes472231.htm
+47-3011,23400,22300,2500,35410,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/47-3011.00,https://www.bls.gov/oes/2019/may/oes473011.htm
+47-3012,33200,33700,3900,33060,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/47-3012.00,https://www.bls.gov/oes/2019/may/oes473012.htm
+47-3013,81100,82300,9500,32830,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-3013.00,https://www.bls.gov/oes/2019/may/oes473013.htm
+47-3014,11000,11200,1300,31340,,No formal educational credential,None,https://www.onetonline.org/link/summary/47-3014.00,https://www.bls.gov/oes/2019/may/oes473014.htm
+47-3015,59300,62600,7300,32100,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-3015.00,https://www.bls.gov/oes/2019/may/oes473015.htm
+47-3016,9100,9500,1100,32110,,No formal educational credential,None,https://www.onetonline.org/link/summary/47-3016.00,https://www.bls.gov/oes/2019/may/oes473016.htm
+47-3019,28800,30000,3500,31910,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/47-3019.00,https://www.bls.gov/oes/2019/may/oes473019.htm
+47-4011,120800,124600,13500,60710,6.8,High school diploma or equivalent,5 years or more,https://www.onetonline.org/link/summary/47-4011.00,https://www.bls.gov/oes/2019/may/oes474011.htm
+47-4021,28900,30800,3000,84990,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-4021.00,https://www.bls.gov/oes/2019/may/oes474021.htm
+47-4031,34200,35000,3400,35800,24.8,No formal educational credential,None,https://www.onetonline.org/link/summary/47-4031.00,https://www.bls.gov/oes/2019/may/oes474031.htm
+47-4041,45300,49000,5600,43900,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-4041.00,https://www.bls.gov/oes/2019/may/oes474041.htm
+47-4051,156100,163800,16500,40730,0.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-4051.00,https://www.bls.gov/oes/2019/may/oes474051.htm
+47-4061,13900,14400,1400,56100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-4061.00,https://www.bls.gov/oes/2019/may/oes474061.htm
+47-4071,30700,33800,3500,39870,0.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-4071.00,https://www.bls.gov/oes/2019/may/oes474071.htm
+47-5011,12000,15700,2000,46990,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5011.00,https://www.bls.gov/oes/2019/may/oes475011.htm
+47-5012,20900,26600,3400,54980,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5012.00,https://www.bls.gov/oes/2019/may/oes475012.htm
+47-5013,51700,63600,8100,46740,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5013.00,https://www.bls.gov/oes/2019/may/oes475013.htm
+47-5022,46100,47400,5100,44800,3.7,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/47-5022.00,https://www.bls.gov/oes/2019/may/oes475022.htm
+47-5041,15000,15300,1700,55280,2.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5041.00,https://www.bls.gov/oes/2019/may/oes475041.htm
+47-5043,3300,2800,300,59090,2.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-5043.00,https://www.bls.gov/oes/2019/may/oes475043.htm
+47-5044,4500,3900,400,54210,3.7,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5044.00,https://www.bls.gov/oes/2019/may/oes475044.htm
+47-5051,5100,5200,600,36070,2.5,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5051.00,https://www.bls.gov/oes/2019/may/oes475051.htm
+47-5071,58500,73100,8800,38910,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/47-5071.00,https://www.bls.gov/oes/2019/may/oes475071.htm
+47-5081,16900,20300,2400,37120,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-5081.00,https://www.bls.gov/oes/2019/may/oes475081.htm
+47-5097,25300,27300,3000,46250,1.7,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/47-5097.00,https://www.bls.gov/oes/2019/may/oes475097.htm
+47-5098,14100,15400,1800,50160,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/47-5098.00,https://www.bls.gov/oes/2019/may/oes475098.htm
+49-1011,499100,512400,42100,67460,0.2,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/49-1011.00,https://www.bls.gov/oes/2019/may/oes491011.htm
+49-2011,112300,111400,10600,39530,11.5,"Some college, no degree",None,https://www.onetonline.org/link/summary/49-2011.00,https://www.bls.gov/oes/2019/may/oes492011.htm
+49-2021,15000,15500,1600,55380,3.1,Associate's degree,None,https://www.onetonline.org/link/summary/49-2021.00,https://www.bls.gov/oes/2019/may/oes492021.htm
+49-2022,215700,210100,20900,57910,3.3,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-2022.00,https://www.bls.gov/oes/2019/may/oes492022.htm
+49-2091,22800,23800,1700,65700,,Associate's degree,None,https://www.onetonline.org/link/summary/49-2091.00,https://www.bls.gov/oes/2019/may/oes492091.htm
+49-2092,17900,18600,1900,44070,9.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/49-2092.00,https://www.bls.gov/oes/2019/may/oes492092.htm
+49-2093,9200,9400,700,62530,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-2093.00,https://www.bls.gov/oes/2019/may/oes492093.htm
+49-2094,61200,62400,4300,59300,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-2094.00,https://www.bls.gov/oes/2019/may/oes492094.htm
+49-2095,23000,22200,1500,82780,,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/49-2095.00,https://www.bls.gov/oes/2019/may/oes492095.htm
+49-2096,10400,8000,700,37380,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-2096.00,https://www.bls.gov/oes/2019/may/oes492096.htm
+49-2097,29700,28800,2600,39510,12.9,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-2097.00,https://www.bls.gov/oes/2019/may/oes492097.htm
+49-2098,76300,84100,8800,48970,5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-2098.00,https://www.bls.gov/oes/2019/may/oes492098.htm
+49-3011,137200,143500,11200,64090,0.3,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-3011.00,https://www.bls.gov/oes/2019/may/oes493011.htm
+49-3021,155500,159900,13600,43580,6.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3021.00,https://www.bls.gov/oes/2019/may/oes493021.htm
+49-3022,24300,24200,2200,35790,19.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3022.00,https://www.bls.gov/oes/2019/may/oes493022.htm
+49-3023,756600,728800,61700,42090,12.6,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-3023.00,https://www.bls.gov/oes/2019/may/oes493023.htm
+49-3031,281300,290800,24500,48500,4.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3031.00,https://www.bls.gov/oes/2019/may/oes493031.htm
+49-3041,40800,41300,3700,42200,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3041.00,https://www.bls.gov/oes/2019/may/oes493041.htm
+49-3042,152900,154000,13700,53370,2.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3042.00,https://www.bls.gov/oes/2019/may/oes493042.htm
+49-3043,24300,23500,2000,56390,2.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3043.00,https://www.bls.gov/oes/2019/may/oes493043.htm
+49-3051,25700,25900,2500,41330,8.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3051.00,https://www.bls.gov/oes/2019/may/oes493051.htm
+49-3052,17400,18000,1700,37600,8.6,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-3052.00,https://www.bls.gov/oes/2019/may/oes493052.htm
+49-3053,35000,36300,3500,36100,8.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3053.00,https://www.bls.gov/oes/2019/may/oes493053.htm
+49-3091,13200,13800,1400,30330,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3091.00,https://www.bls.gov/oes/2019/may/oes493091.htm
+49-3092,15900,16800,1800,38570,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3092.00,https://www.bls.gov/oes/2019/may/oes493092.htm
+49-3093,113400,116000,12000,28640,1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-3093.00,https://www.bls.gov/oes/2019/may/oes493093.htm
+49-9011,23400,24300,1900,41570,0.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9011.00,https://www.bls.gov/oes/2019/may/oes499011.htm
+49-9012,53100,53200,4000,58100,0.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9012.00,https://www.bls.gov/oes/2019/may/oes499012.htm
+49-9021,376800,391900,34200,48730,7.5,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-9021.00,https://www.bls.gov/oes/2019/may/oes499021.htm
+49-9031,38400,35800,3000,40260,19.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9031.00,https://www.bls.gov/oes/2019/may/oes499031.htm
+49-9041,399400,461700,40500,53590,0.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9041.00,https://www.bls.gov/oes/2019/may/oes499041.htm
+49-9043,73200,77700,6400,47520,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9043.00,https://www.bls.gov/oes/2019/may/oes499043.htm
+49-9044,48700,52100,4300,55560,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9044.00,https://www.bls.gov/oes/2019/may/oes499044.htm
+49-9045,800,700,0,53990,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9045.00,https://www.bls.gov/oes/2019/may/oes499045.htm
+49-9051,115000,116900,8900,72520,1.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9051.00,https://www.bls.gov/oes/2019/may/oes499051.htm
+49-9052,123600,121600,11800,56750,1.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9052.00,https://www.bls.gov/oes/2019/may/oes499052.htm
+49-9061,4200,4300,400,38880,11.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9061.00,https://www.bls.gov/oes/2019/may/oes499061.htm
+49-9062,53900,56700,5400,49280,12.5,Associate's degree,None,https://www.onetonline.org/link/summary/49-9062.00,https://www.bls.gov/oes/2019/may/oes499062.htm
+49-9063,8900,8300,700,36650,13.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9063.00,https://www.bls.gov/oes/2019/may/oes499063.htm
+49-9064,3200,2100,100,42520,13.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9064.00,https://www.bls.gov/oes/2019/may/oes499064.htm
+49-9069,12200,12600,1200,58720,9.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9069.00,https://www.bls.gov/oes/2019/may/oes499069.htm
+49-9071,1516400,1579400,139400,39080,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9071.00,https://www.bls.gov/oes/2019/may/oes499071.htm
+49-9081,7000,11300,1300,52910,13.9,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-9081.00,https://www.bls.gov/oes/2019/may/oes499081.htm
+49-9091,37000,36300,3900,35420,13.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9091.00,https://www.bls.gov/oes/2019/may/oes499091.htm
+49-9092,4000,4200,400,49980,13.8,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/49-9092.00,https://www.bls.gov/oes/2019/may/oes499092.htm
+49-9094,21100,19500,1700,41940,16.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9094.00,https://www.bls.gov/oes/2019/may/oes499094.htm
+49-9095,2900,2200,100,33890,2.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9095.00,https://www.bls.gov/oes/2019/may/oes499095.htm
+49-9096,23500,24600,2100,50860,1.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9096.00,https://www.bls.gov/oes/2019/may/oes499096.htm
+49-9097,6600,6500,600,73890,13.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9097.00,https://www.bls.gov/oes/2019/may/oes499097.htm
+49-9098,101100,105500,13000,30530,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9098.00,https://www.bls.gov/oes/2019/may/oes499098.htm
+49-9099,187700,192400,18500,39830,12.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/49-9099.00,https://www.bls.gov/oes/2019/may/oes499099.htm
+51-1011,648900,646900,56900,61310,1.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/51-1011.00,https://www.bls.gov/oes/2019/may/oes511011.htm
+51-2011,43900,36300,2600,54210,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2011.00,https://www.bls.gov/oes/2019/may/oes512011.htm
+51-2021,13000,10500,900,36520,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2021.00,https://www.bls.gov/oes/2019/may/oes512021.htm
+51-2028,291700,295900,28900,34810,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2028.00,https://www.bls.gov/oes/2019/may/oes512028.htm
+51-2031,45900,39000,3200,45660,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2031.00,https://www.bls.gov/oes/2019/may/oes512031.htm
+51-2041,78500,66000,5600,40390,1.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2041.00,https://www.bls.gov/oes/2019/may/oes512041.htm
+51-2051,20400,19300,1900,35480,0.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2051.00,https://www.bls.gov/oes/2019/may/oes512051.htm
+51-2061,1300,1000,100,35080,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-2061.00,https://www.bls.gov/oes/2019/may/oes512061.htm
+51-3011,199300,209900,26000,27700,6.1,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3011.00,https://www.bls.gov/oes/2019/may/oes513011.htm
+51-3021,137500,139800,14900,32500,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3021.00,https://www.bls.gov/oes/2019/may/oes513021.htm
+51-3022,161800,164500,17500,28100,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3022.00,https://www.bls.gov/oes/2019/may/oes513022.htm
+51-3023,75000,77500,8300,29230,0.3,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3023.00,https://www.bls.gov/oes/2019/may/oes513023.htm
+51-3091,22100,21900,2400,31590,5.8,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3091.00,https://www.bls.gov/oes/2019/may/oes513091.htm
+51-3092,162500,164700,20100,30790,0.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-3092.00,https://www.bls.gov/oes/2019/may/oes513092.htm
+51-3093,30400,30600,4800,31110,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-3093.00,https://www.bls.gov/oes/2019/may/oes513093.htm
+51-3099,44200,44100,4000,27550,2.9,No formal educational credential,None,https://www.onetonline.org/link/summary/51-3099.00,https://www.bls.gov/oes/2019/may/oes513099.htm
+51-4021,77400,69200,6800,36320,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4021.00,https://www.bls.gov/oes/2019/may/oes514021.htm
+51-4022,16400,13000,900,39670,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4022.00,https://www.bls.gov/oes/2019/may/oes514022.htm
+51-4023,32600,28900,2300,40490,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4023.00,https://www.bls.gov/oes/2019/may/oes514023.htm
+51-4031,195700,179400,16000,35610,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4031.00,https://www.bls.gov/oes/2019/may/oes514031.htm
+51-4032,11200,9100,700,38910,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4032.00,https://www.bls.gov/oes/2019/may/oes514032.htm
+51-4033,77100,70800,6800,36100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4033.00,https://www.bls.gov/oes/2019/may/oes514033.htm
+51-4034,28200,25300,2000,40100,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4034.00,https://www.bls.gov/oes/2019/may/oes514034.htm
+51-4035,19200,15600,1200,43210,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4035.00,https://www.bls.gov/oes/2019/may/oes514035.htm
+51-4041,388100,404400,38000,44420,0.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4041.00,https://www.bls.gov/oes/2019/may/oes514041.htm
+51-4051,17100,17100,1400,42250,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4051.00,https://www.bls.gov/oes/2019/may/oes514051.htm
+51-4052,8000,7300,600,38620,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4052.00,https://www.bls.gov/oes/2019/may/oes514052.htm
+51-4061,4400,4100,300,57020,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4061.00,https://www.bls.gov/oes/2019/may/oes514061.htm
+51-4062,3100,2800,200,46910,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4062.00,https://www.bls.gov/oes/2019/may/oes514062.htm
+51-4071,17600,16500,1400,35590,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4071.00,https://www.bls.gov/oes/2019/may/oes514071.htm
+51-4072,173400,156700,12600,32130,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4072.00,https://www.bls.gov/oes/2019/may/oes514072.htm
+51-4081,150500,153600,14000,36330,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4081.00,https://www.bls.gov/oes/2019/may/oes514081.htm
+51-4111,72500,68600,6000,53920,2,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/51-4111.00,https://www.bls.gov/oes/2019/may/oes514111.htm
+51-4121,438900,452500,43400,42490,5.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4121.00,https://www.bls.gov/oes/2019/may/oes514121.htm
+51-4122,37200,34700,3100,38310,5.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4122.00,https://www.bls.gov/oes/2019/may/oes514122.htm
+51-4191,20100,18000,1500,38250,1.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4191.00,https://www.bls.gov/oes/2019/may/oes514191.htm
+51-4192,8500,7600,600,49940,1.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4192.00,https://www.bls.gov/oes/2019/may/oes514192.htm
+51-4193,42100,38400,3000,33500,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4193.00,https://www.bls.gov/oes/2019/may/oes514193.htm
+51-4194,7100,6800,800,39330,8.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4194.00,https://www.bls.gov/oes/2019/may/oes514194.htm
+51-4199,24900,22700,1900,34830,1.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-4199.00,https://www.bls.gov/oes/2019/may/oes514199.htm
+51-5111,30200,24000,2500,40510,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/51-5111.00,https://www.bls.gov/oes/2019/may/oes515111.htm
+51-5112,181400,157200,14100,36910,4.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-5112.00,https://www.bls.gov/oes/2019/may/oes515112.htm
+51-5113,45200,38500,4300,33040,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-5113.00,https://www.bls.gov/oes/2019/may/oes515113.htm
+51-6011,215200,215600,25600,24220,1.7,No formal educational credential,None,https://www.onetonline.org/link/summary/51-6011.00,https://www.bls.gov/oes/2019/may/oes516011.htm
+51-6021,38300,31100,2900,24190,,No formal educational credential,None,https://www.onetonline.org/link/summary/51-6021.00,https://www.bls.gov/oes/2019/may/oes516021.htm
+51-6031,146500,132800,12700,26420,9.5,No formal educational credential,None,https://www.onetonline.org/link/summary/51-6031.00,https://www.bls.gov/oes/2019/may/oes516031.htm
+51-6041,10800,9700,1000,29560,19,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6041.00,https://www.bls.gov/oes/2019/may/oes516041.htm
+51-6042,5300,4600,500,30570,3.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6042.00,https://www.bls.gov/oes/2019/may/oes516042.htm
+51-6051,7500,6900,800,29950,36.7,No formal educational credential,None,https://www.onetonline.org/link/summary/51-6051.00,https://www.bls.gov/oes/2019/may/oes516051.htm
+51-6052,37300,35700,4300,31520,37,No formal educational credential,None,https://www.onetonline.org/link/summary/51-6052.00,https://www.bls.gov/oes/2019/may/oes516052.htm
+51-6061,9000,7900,900,29460,3.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6061.00,https://www.bls.gov/oes/2019/may/oes516061.htm
+51-6062,13100,11800,900,28730,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6062.00,https://www.bls.gov/oes/2019/may/oes516062.htm
+51-6063,24800,21600,2400,29980,15.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6063.00,https://www.bls.gov/oes/2019/may/oes516063.htm
+51-6064,31000,28000,2200,29790,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6064.00,https://www.bls.gov/oes/2019/may/oes516064.htm
+51-6091,19000,17800,2000,36110,3.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6091.00,https://www.bls.gov/oes/2019/may/oes516091.htm
+51-6092,6000,5400,600,45070,3.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6092.00,https://www.bls.gov/oes/2019/may/oes516092.htm
+51-6093,35200,33900,2500,35130,16.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6093.00,https://www.bls.gov/oes/2019/may/oes516093.htm
+51-6099,18700,17800,2000,27970,3.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-6099.00,https://www.bls.gov/oes/2019/may/oes516099.htm
+51-7011,112200,108900,9300,35790,11.2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7011.00,https://www.bls.gov/oes/2019/may/oes517011.htm
+51-7021,17400,16700,1700,32480,6.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7021.00,https://www.bls.gov/oes/2019/may/oes517021.htm
+51-7031,1400,1400,100,59260,43,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7031.00,https://www.bls.gov/oes/2019/may/oes517031.htm
+51-7032,700,600,100,64880,42.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7032.00,https://www.bls.gov/oes/2019/may/oes517032.htm
+51-7041,54500,50800,5000,30410,6.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7041.00,https://www.bls.gov/oes/2019/may/oes517041.htm
+51-7042,79300,77400,9300,30990,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7042.00,https://www.bls.gov/oes/2019/may/oes517042.htm
+51-7099,11700,11100,1100,33110,41.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-7099.00,https://www.bls.gov/oes/2019/may/oes517099.htm
+51-8011,5300,3400,200,100530,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8011.00,https://www.bls.gov/oes/2019/may/oes518011.htm
+51-8012,11200,10300,800,90700,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8012.00,https://www.bls.gov/oes/2019/may/oes518012.htm
+51-8013,35300,30000,2100,81990,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8013.00,https://www.bls.gov/oes/2019/may/oes518013.htm
+51-8021,34400,35100,3500,62150,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8021.00,https://www.bls.gov/oes/2019/may/oes518021.htm
+51-8031,126400,121000,9200,47760,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8031.00,https://www.bls.gov/oes/2019/may/oes518031.htm
+51-8091,29200,28300,2600,62550,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8091.00,https://www.bls.gov/oes/2019/may/oes518091.htm
+51-8092,14700,13900,1300,70710,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8092.00,https://www.bls.gov/oes/2019/may/oes518092.htm
+51-8093,41300,41100,3800,74180,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8093.00,https://www.bls.gov/oes/2019/may/oes518093.htm
+51-8099,13200,13200,1200,58390,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-8099.00,https://www.bls.gov/oes/2019/may/oes518099.htm
+51-9011,88500,90000,8700,49130,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9011.00,https://www.bls.gov/oes/2019/may/oes519011.htm
+51-9012,53100,54900,5400,41330,0.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9012.00,https://www.bls.gov/oes/2019/may/oes519012.htm
+51-9021,35300,33300,3300,37560,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9021.00,https://www.bls.gov/oes/2019/may/oes519021.htm
+51-9022,29000,23400,2100,30600,,No formal educational credential,None,https://www.onetonline.org/link/summary/51-9022.00,https://www.bls.gov/oes/2019/may/oes519022.htm
+51-9023,128000,129500,13300,37780,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9023.00,https://www.bls.gov/oes/2019/may/oes519023.htm
+51-9031,9800,6900,600,30200,2,No formal educational credential,None,https://www.onetonline.org/link/summary/51-9031.00,https://www.bls.gov/oes/2019/may/oes519031.htm
+51-9032,59800,57000,5700,35600,2,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9032.00,https://www.bls.gov/oes/2019/may/oes519032.htm
+51-9041,72400,70100,6800,35480,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9041.00,https://www.bls.gov/oes/2019/may/oes519041.htm
+51-9051,21600,21500,1900,40090,12.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9051.00,https://www.bls.gov/oes/2019/may/oes519051.htm
+51-9061,590100,489600,48300,39140,1.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9061.00,https://www.bls.gov/oes/2019/may/oes519061.htm
+51-9071,35100,31600,3600,40870,34.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9071.00,https://www.bls.gov/oes/2019/may/oes519071.htm
+51-9081,36200,39600,4600,41340,2.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9081.00,https://www.bls.gov/oes/2019/may/oes519081.htm
+51-9082,14800,16500,1900,40690,2.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9082.00,https://www.bls.gov/oes/2019/may/oes519082.htm
+51-9083,30200,32500,3700,32620,3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9083.00,https://www.bls.gov/oes/2019/may/oes519083.htm
+51-9111,392100,397600,40600,30990,0.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9111.00,https://www.bls.gov/oes/2019/may/oes519111.htm
+51-9123,12800,12700,1200,32950,2.5,No formal educational credential,None,https://www.onetonline.org/link/summary/51-9123.00,https://www.bls.gov/oes/2019/may/oes519123.htm
+51-9124,151400,153900,14500,38150,2.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9124.00,https://www.bls.gov/oes/2019/may/oes519124.htm
+51-9141,30800,31000,3100,38060,3.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9141.00,https://www.bls.gov/oes/2019/may/oes519141.htm
+51-9151,12300,9900,1300,32280,5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9151.00,https://www.bls.gov/oes/2019/may/oes519151.htm
+51-9161,152400,141700,11800,41200,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9161.00,https://www.bls.gov/oes/2019/may/oes519161.htm
+51-9162,25700,31300,3100,56450,,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/51-9162.00,https://www.bls.gov/oes/2019/may/oes519162.htm
+51-9191,14000,13700,1400,34340,0.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9191.00,https://www.bls.gov/oes/2019/may/oes519191.htm
+51-9192,16300,16500,2300,31850,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9192.00,https://www.bls.gov/oes/2019/may/oes519192.htm
+51-9193,9400,9800,1000,35290,3.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9193.00,https://www.bls.gov/oes/2019/may/oes519193.htm
+51-9194,12900,12300,1300,30620,20.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9194.00,https://www.bls.gov/oes/2019/may/oes519194.htm
+51-9195,49400,46400,4400,34030,8.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9195.00,https://www.bls.gov/oes/2019/may/oes519195.htm
+51-9196,100400,94600,9000,39210,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9196.00,https://www.bls.gov/oes/2019/may/oes519196.htm
+51-9197,21000,21100,1900,46010,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9197.00,https://www.bls.gov/oes/2019/may/oes519197.htm
+51-9198,304200,325000,44100,29100,0.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9198.00,https://www.bls.gov/oes/2019/may/oes519198.htm
+51-9199,238600,243700,24700,29800,3.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/51-9199.00,https://www.bls.gov/oes/2019/may/oes519199.htm
+53-1041,9600,10200,1000,53850,,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-1041.00,https://www.bls.gov/oes/2019/may/oes531041.htm
+53-1047,456700,480200,45300,55060,0.2,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-1047.00,https://www.bls.gov/oes/2019/may/oes531047.htm
+53-2011,85500,87900,8300,147220,,Bachelor's degree,Less than 5 years,https://www.onetonline.org/link/summary/53-2011.00,https://www.bls.gov/oes/2019/may/oes532011.htm
+53-2012,41600,45400,4400,86080,7.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-2012.00,https://www.bls.gov/oes/2019/may/oes532012.htm
+53-2021,24300,24500,2000,122990,,Associate's degree,None,https://www.onetonline.org/link/summary/53-2021.00,https://www.bls.gov/oes/2019/may/oes532021.htm
+53-2022,10900,11500,1000,52650,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-2022.00,https://www.bls.gov/oes/2019/may/oes532022.htm
+53-2031,121900,143000,16500,56640,0,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-2031.00,https://www.bls.gov/oes/2019/may/oes532031.htm
+53-3011,14900,16300,1700,25890,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-3011.00,https://www.bls.gov/oes/2019/may/oes533011.htm
+53-3031,487400,501900,51300,25860,7.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-3031.00,https://www.bls.gov/oes/2019/may/oes533031.htm
+53-3032,2029900,2060500,209200,45260,7.6,Postsecondary nondegree award,None,https://www.onetonline.org/link/summary/53-3032.00,https://www.bls.gov/oes/2019/may/oes533032.htm
+53-3033,1018600,1079100,111800,34730,7.5,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-3033.00,https://www.bls.gov/oes/2019/may/oes533033.htm
+53-3052,223400,244200,28900,43030,14.8,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-3052.00,https://www.bls.gov/oes/2019/may/oes533052.htm
+53-3058,853300,947800,104000,31340,18.7,No formal educational credential,None,https://www.onetonline.org/link/summary/53-3058.00,https://www.bls.gov/oes/2019/may/oes533058.htm
+53-3099,61700,63600,9900,32910,6.1,No formal educational credential,None,https://www.onetonline.org/link/summary/53-3099.00,https://www.bls.gov/oes/2019/may/oes533099.htm
+53-4011,27400,26500,1900,67090,1.4,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-4011.00,https://www.bls.gov/oes/2019/may/oes534011.htm
+53-4013,5200,4900,300,49330,1.1,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-4013.00,https://www.bls.gov/oes/2019/may/oes534013.htm
+53-4022,9100,8600,700,60260,1.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-4022.00,https://www.bls.gov/oes/2019/may/oes534022.htm
+53-4031,36000,35200,2900,65990,1.3,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-4031.00,https://www.bls.gov/oes/2019/may/oes534031.htm
+53-4041,10700,11300,1100,67880,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-4041.00,https://www.bls.gov/oes/2019/may/oes534041.htm
+53-4099,2500,2400,200,51600,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-4099.00,https://www.bls.gov/oes/2019/may/oes534099.htm
+53-5011,31900,32200,3600,43480,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/53-5011.00,https://www.bls.gov/oes/2019/may/oes535011.htm
+53-5021,38900,38700,3300,72340,6.4,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/53-5021.00,https://www.bls.gov/oes/2019/may/oes535021.htm
+53-5022,2500,2500,200,48260,6.1,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/53-5022.00,https://www.bls.gov/oes/2019/may/oes535022.htm
+53-5031,8700,8700,1000,74610,,Postsecondary nondegree award,Less than 5 years,https://www.onetonline.org/link/summary/53-5031.00,https://www.bls.gov/oes/2019/may/oes535031.htm
+53-6011,3300,3300,300,50110,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-6011.00,https://www.bls.gov/oes/2019/may/oes536011.htm
+53-6021,149800,160600,22800,25140,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/53-6021.00,https://www.bls.gov/oes/2019/may/oes536021.htm
+53-6031,118800,121600,16300,25200,0.4,No formal educational credential,None,https://www.onetonline.org/link/summary/53-6031.00,https://www.bls.gov/oes/2019/may/oes536031.htm
+53-6041,7700,8200,800,47480,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-6041.00,https://www.bls.gov/oes/2019/may/oes536041.htm
+53-6051,30200,30900,2900,75820,0.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-6051.00,https://www.bls.gov/oes/2019/may/oes536051.htm
+53-6061,28000,29200,3700,26570,,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-6061.00,https://www.bls.gov/oes/2019/may/oes536061.htm
+53-6098,35800,37400,3500,37000,1.7,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-6098.00,https://www.bls.gov/oes/2019/may/oes536098.htm
+53-7011,23900,24000,2700,34660,0.6,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7011.00,https://www.bls.gov/oes/2019/may/oes537011.htm
+53-7021,45700,46500,4500,56690,0.2,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-7021.00,https://www.bls.gov/oes/2019/may/oes537021.htm
+53-7031,1600,1700,200,47040,3.6,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-7031.00,https://www.bls.gov/oes/2019/may/oes537031.htm
+53-7041,4900,4600,500,59720,,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7041.00,https://www.bls.gov/oes/2019/may/oes537041.htm
+53-7051,634700,652300,64300,36200,0.2,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7051.00,https://www.bls.gov/oes/2019/may/oes537051.htm
+53-7061,408400,423100,53900,25800,4.7,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7061.00,https://www.bls.gov/oes/2019/may/oes537061.htm
+53-7062,2986000,3111700,380600,29510,0.9,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7062.00,https://www.bls.gov/oes/2019/may/oes537062.htm
+53-7063,62900,63000,7000,31180,,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7063.00,https://www.bls.gov/oes/2019/may/oes537063.htm
+53-7064,640800,609900,75800,25910,0.5,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7064.00,https://www.bls.gov/oes/2019/may/oes537064.htm
+53-7065,2135800,2151300,254900,27380,0.4,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-7065.00,https://www.bls.gov/oes/2019/may/oes537065.htm
+53-7071,3700,3600,400,66160,4.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-7071.00,https://www.bls.gov/oes/2019/may/oes537071.htm
+53-7072,10500,11500,1200,45040,4.9,High school diploma or equivalent,None,https://www.onetonline.org/link/summary/53-7072.00,https://www.bls.gov/oes/2019/may/oes537072.htm
+53-7073,14100,14700,1500,55040,4.9,High school diploma or equivalent,Less than 5 years,https://www.onetonline.org/link/summary/53-7073.00,https://www.bls.gov/oes/2019/may/oes537073.htm
+53-7081,133600,145400,18200,37840,6.6,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7081.00,https://www.bls.gov/oes/2019/may/oes537081.htm
+53-7121,12200,12000,1300,42360,3.7,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7121.00,https://www.bls.gov/oes/2019/may/oes537121.htm
+53-7199,29800,30300,3300,31770,3.4,No formal educational credential,None,https://www.onetonline.org/link/summary/53-7199.00,https://www.bls.gov/oes/2019/may/oes537199.htm
